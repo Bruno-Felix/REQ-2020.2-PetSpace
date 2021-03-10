@@ -47,8 +47,8 @@ Histórias de usuários são, resumidamente, uma forma simplificada de descrever
 | US11 | FT04 | Avaliar um produto | Ajudar outros clientes a sanar suas dúvidas | Should |
 
 ### 4.3 Épico Serviços
-| ID | Eu, como usuário gostaria de... | Para poder... | Priorização |
-|---|---|---|---|
+| ID | Feature | Eu, como usuário gostaria de... | Para poder... | Priorização |
+|---|---|---|---|---|
 | US12 | FT06 | Visualizar quais serviços estão disponíveis para a minha região | Escolher qual serviço quero contratar | Must |
 | US13 | FT03 | Pedir um serviço de banho a pet | Lavar o meu pet em casa | Must |
 | US14 | FT03 | Pedir um serviço de tosa a pet | Tosar o meu pet em casa | Must |
@@ -58,8 +58,8 @@ Histórias de usuários são, resumidamente, uma forma simplificada de descrever
 
 
 ### 4.4 Épico Adoção
-| ID | Eu, como usuário gostaria de... | Para poder... | Priorização |
-|---|---|---|---|
+| ID | Feature | Eu, como usuário gostaria de... | Para poder... | Priorização |
+|---|---|---|---|---|
 | US18 | FT06 | Visualizar quais as Instituições de adoção disponíveis na minha região | Saber qual fica mais perto para se locomover | Must |
 | US19 | FT05 | Entrar em contato com uma instiuição | Adotar um pet | Must |
 | US20 | FT06 | Visualizar fotos de novos donos de pets adotados | Me motivar a adotar também | Could |
