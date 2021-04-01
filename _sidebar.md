@@ -2,6 +2,7 @@
 
 * [**Documentação**](#)
     - [Product Backlog](/Documentos/Product-Backlog.md)
+    - [Documento de Visão](/Documentos/Documento-de-Visão.md)
 
 * [**Sprints**](#)
     - [Sprint 3](#)
