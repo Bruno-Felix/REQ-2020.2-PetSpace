@@ -9,7 +9,6 @@
 |1.0|18/02/2021|Criação do documento|Equipe Void|
 |2.0|10/03/2021|Revisão do documento perante ao feedback do professor|Equipe Void|
 
-
 ## 1. INTRODUÇÃO 
 
 ###  1.1 DECLARAÇÃO DO PROBLEMA
