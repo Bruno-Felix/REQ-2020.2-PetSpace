@@ -12,5 +12,6 @@
    - [Documento de Necessidade](/Documentos/Documento-necessidade.md)
 
 * [**User case**](#)
+   - [Requisitos x Casos de uso](/Documentos/RequisitosXcaso_de_uso.md)
    - [User case](/Documentos/Use-case.md)
    - [Fluxo de Eventos](/Documentos/Fluxo-de-eventos.md)
