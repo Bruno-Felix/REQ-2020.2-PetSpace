@@ -11,5 +11,7 @@
     - [Documento de Necessidade](/Documentos/Pacote-2/Documento-necessidade.md)
     - [User Case](/Documentos/Pacote-2/Use-case.md)
         - [Detalhamento de Casos de Uso]()
+        - [Detalhamento de Casos de Uso]()
+        - [Detalhamento de Casos de Uso]()
     - [Requisitos x Casos de Uso](/Documentos/Pacote-2/RequisitosXcaso_de_uso.md)
     - [Fluxo de Eventos](/Documentos/Pacote-2/Fluxo-de-eventos.md)
