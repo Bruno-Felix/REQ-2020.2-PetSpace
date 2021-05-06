@@ -12,7 +12,7 @@
     - [Requisitos x Casos de Uso](/Documentos/Pacote-2/RequisitosXcaso_de_uso.md)
     - [Documento de Necessidade](/Documentos/Pacote-2/Documento-necessidade.md)
     - [Diagrama de Casos de Uso](/Documentos/Pacote-2/Use-case.md)
-        - [Detalhamento de Casos de Uso]()
+        - [Detalhamento de Casos de Uso](/Documentos/Pacote-2/Especificacao-caso-de-uso.md)
         - [Detalhamento de Casos de Uso]()
         - [Detalhamento de Casos de Uso]()
     <!-- - [Fluxo de Eventos](/Documentos/Pacote-2/Fluxo-de-eventos.md) -->
