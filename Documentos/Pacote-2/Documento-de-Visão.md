@@ -1,6 +1,6 @@
 ﻿# PetSpace
 
-## HISTÓRICO DE REVISÃO 
+## Histórico de revisão
 
 
 
@@ -9,9 +9,9 @@
 |1.0|18/02/2021|Criação do documento|Equipe Void|
 |2.0|10/03/2021|Revisão do documento perante ao feedback do professor|Equipe Void|
 
-## 1. INTRODUÇÃO 
+## 1. Introdução 
 
-###  1.1 DECLARAÇÃO DO PROBLEMA
+###  1.1 Declaração do problema
 
 
 |**O problema**|A não praticidade e facilidade de obter produtos e serviços voltados aos pets|
@@ -20,12 +20,12 @@
 |**Cujo impacto é**|A pouca diversidade de interação dos donos e seus animais|
 |**Uma solução de sucesso seria**|Um e-commerce para a venda de produtos, serviços e adoção de pets|
 
-### 1.2 OBJETIVO DO PROJETO
+### 1.2 Objetivo do projeto
 
 Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No meio da pandemia da COVID-19, vários aspectos foram afetados, um deles foi a livre circulação, tornando a compra pela internet, além de uma medida de segurança, prático. Com isso percebemos a oportunidade de criar uma loja virtual para que pessoas consigam comprar produtos e serviços focados para seus pets.
 
 
-## 2- STAKEHOLDERS
+## 2- Stakeholders
 
 
 
@@ -37,10 +37,9 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 |Professor Orientador|Professor da disciplina Requisitos de Software|   Avaliar e gerar feedback sobre projeto|
 
 
-## 3- VISÃO GERAL DO PRODUTO
+## 3- Visão geral do produto
 
-### 3.1 DECLARAÇÃO DE POSIÇÃO DO PRODUTO
-
+### 3.1 Declaração de posição do produto.
 
 
 |**Para**|Donos de Pets|
@@ -51,7 +50,8 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 |**Ao contrário**|da Petz, que somente faz venda de produtos|
 |**Nosso produto**|Além da venda de produtos, fornece a oferta de serviços e adoção de pets|
 
-### 3.2 MÍNIMO PRODUTO VIÁVEL (MVP)
+
+### 3.2 Mínimo produto viável (MVP)
 - Visualizar lista de produtos;
 - Ver detalhes do produto;
 - Adicionar produto ao carrinho;
@@ -60,9 +60,57 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 - Avaliar produto.
 
 
-## 4. VISÃO GERAL DO PROJETO
+## 4- Documento de necessidades
 
-### 4.1 ORGANIZAÇÃO DO PROJETO
+
+|**Necessidade**|**Prioridade**|**Problema**|**Solução Atual**| **Solução Proposta** |
+| - | - | - | - | - |
+| Realizar compras de produtos e serviços para pets | Alta | Falta de praticidade e facilidade na compra | Geralmente a compra é feita em lojas físicas | Compras online, aumentar a praticidade e facilidade na compra |
+| Avaliar produtos e serviços | Média | A falta de feedback dificulta na tomada de decisão da compra | Busca opiniões de terceiros ou em outras fontes | O usuário dá seu feedback sobre um produto ou serviço |
+| Realizar adoção de pets | Baixa | Dificuldade de encontrar as diversas opções de adoção | Ir em um local específico para realizar uma adoção | Centralizar as opções de adoção, facilitando a busca e o contato |
+
+
+## 5- Casos de uso
+
+### 5.1 Requisitos
+
+|Requisito|Nome| Descrição |
+| - | - | - |
+|Req. 1|Autenticação e conta| |
+|Req. 2|Busca e filtro de elementos| |
+|Req. 3|Compra de produtos e serviços| |
+|Req. 4|Avaliar elementos| |
+|Req. 5|Fazer adoção| |
+|Req. 6|Visualizar detalhes| |
+|Req. 7|Cadastro, gerência e acompanhamento de elementos| |
+|Req. 8|Listagem de elementos| |
+
+### 5.2 Casos de uso
+
+
+| ID |Requisito|Caso de Uso|Atores|
+|-| - | - | - |
+| |Req. 2, Req. 3| Comprar produtos |Cliente|
+| |Req. 2, Req. 3| Comprar serviços |Cliente|
+| |Req. 5|Adotar pet|Cliente|
+| |Req. 1|Criar conta|Cliente|
+| |Req. 1|Fazer login|Cliente|
+| |Req. 1, Req. 4|Avaliar produto |Cliente|
+| |Req. 1, Req. 4|Avaliar serviços |Cliente|
+| |Req. 1, Req. 7|Fazer cadastro|Administrador|
+| |Req. 1, Req. 7|Fazer edição|Administrador|
+| |Req. 1, Req. 7|Fazer exclusão|Administrador|
+| |Req. 1, Req. 6, Req. 7,Req. 8|Listar produtos| Administrador|
+
+
+## 6- Diagrama de caso de uso
+
+![](https://raw.githubusercontent.com/Bruno-Felix/REQ-2020.2-PetSpace/gh-page/images/Use-case.png)
+
+
+## 4- Visão geral do projeto
+
+### 4.1 Organização do projeto
 
 
 
@@ -75,7 +123,7 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 |Time de Desenvolvimento|É a equipe de profissionais responsável por transformar o Product Backlog em um produto funcional.|Bruno Félix, Francisco Ferreira, Hércules Ismael, Daniel Primo e Pedro Henrique|
 
 
-## 5- FERRAMENTAS, AMBIENTE E INFRAESTRUTURA
+## 5- Ferramentas, ambiente e infraestrutura
 
 
 
@@ -93,9 +141,9 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 |Dockerhub|É um repositório público onde empresas podem publicar suas soluções em forma de imagem|
 |GitHub|É uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.|
 
-## 6- PROCESSO DE GERÊNCIA DE PROJETO
+## 6- Processo de gerência de projeto
 
-### 6.1 PLANEJAMENTO DAS FASES E ITERAÇÕES DO PROJETO
+### 6.1 Planejamento das fases e iterações do projeto
 
 
 |**Sprint**|**Data**|**Descrição**|
@@ -107,13 +155,13 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 |Sprint 5|27/abr a 13/mai|Definição do Escopo da Iteração Gerenciamento dos Requisitos|
 
 
-### 6.2 PROCESSOS DE DESENVOLVIMENTO E MENSURAÇÃO
+### 6.2 Processos de desenvolvimento e mensuração
 
 O processo de desenvolvimento da aplicação será conduzido por meio do uso de certas práticas da metodologia SCRUM, tendo seus ritos adaptados à realidade do projeto, considerando o contexto de home office por conta da pandemia. O projeto será acompanhado por meio de reuniões semanais, para o planejamento da sprint e revisão da sprint anterior. Além disso, serão realizadas reuniões rápidas, nos moldes de dailys, da metodologia SCRUM, porém realizadas 3 vezes por semana, para rastrear eventuais impedimentos e ter uma boa perspectiva do que está sendo feito. As datas finais das fases do projeto serão as bases para as Releases do produto.
 
 Nosso processo de mensuração, no planejamento da Sprint, será baseado nos Burndown report e Velocity tracking, do recurso ZenHub da plataforma GitHub. Usaremos também uma pontuação, o Planning Poker, para definir a dificuldade de desenvolvimento de uma User Story, assim mensurando bem os esforços e o tempo gasto durante a Sprint.
 
-### 6.3 MATRIZ DE COMUNICAÇÃO
+### 6.3 Matriz de comunicação
 
 
 
@@ -123,14 +171,14 @@ Nosso processo de mensuração, no planejamento da Sprint, será baseado nos Bur
 |Comunicar o que está feito, inpecílicios, e o que planeja ainda fazer|Equipe de Desenvolvimento|Segunda, Quarta e Sexta|Ata da Reunião|
 |Receber feedbacks das entregas do projeto|Equipe de Desenvolvimento e o Professor|Ao final de cada Sprint| Feedback|
 
-### 6.4 ESCALABILIDADE DO PROJETO
+### 6.4 Escalabilidade do projeto
 
 A necessidade de mudança e resolução de problemas é uma característica inerente ao desenvolvimento de software.
 
 Caso ocorra algum problema no desenvolvimento o desenvolvedor deve tentar saná-lo por si só, caso não consiga, ficará a cargo do DevOps resolver o problema e garantir a continuidade do projeto. Se o problema persistir e estiver relacionado a integração do time, o Scrum Master será acionado e tentará solucionar o problema. Caso seja um problema de requisitos ou visão do produto, será acionado o Product Owner para reavaliar os requisitos e talvez fazer uma nova reunião com o cliente. Mas caso o problema seja em relação à matéria ou orientação de projeto, o professor será acionado como última instância.
 
 
-### 6.5 GERENCIAMENTO DE RISCO
+### 6.5 Gerenciamento de risco
 
 
 
@@ -152,7 +200,7 @@ Caso ocorra algum problema no desenvolvimento o desenvolvedor deve tentar saná-
 
 
 
-### 6.6 CRITÉRIOS DE REPLANEJAMENTO
+### 6.6 Critérios de replanejamento
 
 Ter bem definido os critérios de replanejamento assegurará uma boa entrega do produto, levantamos 3 que serão cruciais no projeto.
 
@@ -160,11 +208,11 @@ Ter bem definido os critérios de replanejamento assegurará uma boa entrega do 
 - Mudança de escopo do produto: Baseado numa mudança de visão, ou por um curto espaço de tempo hábil para o desenvolvimento, talvez se mostre necessário replanejar que será entregue;
 - Poucas entregas: Ao final de cada sprint será feita uma reunião de revisão, pode-se notar uma diferença grande entre o planejado e o entregue. Isso pede que no planejamento da próxima Sprint seja levantado o que deu errado e o que pode ser feito para que as entregas da Sprint passadas sejam feitas e que as novas sejam bem desenvolvidas, dentro do prazo e do planejamento.
 
-## 7- LIÇÕES APRENDIDAS
+## 7- Lições aprendidas
 
 A falta de comunicação devido a poucas reuniões nos levaram a ter visões diferentes do projeto, com o passar disciplina, aumentar a frequência das reuniões e, principalmente, fazer uso do Lean inception, conseguimos alinhar bem melhor as ideias. Além disso, os conhecimentos relacionados a requisitos foram sendo solidificados e lapidados, fazendo com que cada vez mais tivéssemos uma ideia clara do projeto, conseguindo assim, levantar de forma bem mais clara e coerente os requisitos para o desenvolvimento das entregas de cada unidade e do produto final.
 
-## 8 REFERÊNCIAS 
+## 8 Referências 
 
 Schwaber, K. & Beedle, M. (2002). Agile software development with Scrum. New Jersey: Prentice Hall.
 
