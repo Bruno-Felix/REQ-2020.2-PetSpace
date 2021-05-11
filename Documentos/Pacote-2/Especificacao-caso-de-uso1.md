@@ -13,7 +13,7 @@ Esse caso de uso descreve os possiveis fluxos de atividades que são navegaveis 
 
 ## 4- Fluxo Básico de Eventos (FBE)
 
-* 4.1- Sistema pede o user e senha do administrador.
+* 4.1- Sistema pede o user e senha do administrador. (FEE-01)(FEE-02)
 * 4.2- Administrador inserir seu login, senha e confere os respectivos dados e dar um "ENTER".
 * 4.3- Administrador faz autenticação na página do administrador.
 * 4.4- Administrador vai para page de cadastro de produto.
@@ -31,20 +31,17 @@ Esse caso de uso descreve os possiveis fluxos de atividades que são navegaveis 
     * Administrador cancelar a opção de confirmar.
     * Caso de uso segue para o passo 4.4
 
-## 6- Fluxo de Exeção de Eventos (FEE)
+## 6- Fluxo de Execção de Eventos (FEE)
 * 6.1- **FEE-01: User inválida:** No passo 4.2 (FBE) caso o user for invalida o sitema retorna a messagem: "Nome de usuário desconhecido. Verifique novamente ou tente seu endereço de e-mail." 
 * 6.2- **FEE-02: Senha inválida:** No passo 4.2 (FBE) casoa a senha seja invalida o sistema vai retorna a messagem: "Erro: A senha informada para o usuário user está incorreta. Perdeu a senha?"
-
-* 6.2- **FEE-03: Produto já cadastrado:**
-  
-
 
 ## 7- Regra de Négócio (RN)
 * Não se aplica
 
 ## 8- Pós-condições
 
-* Não se aplica
+* **FBE:** Cadastro de novos produto.
+* **FAE:** Cancelar cadastro de produto
 
 
 ## 9- Pontos de Extensão
