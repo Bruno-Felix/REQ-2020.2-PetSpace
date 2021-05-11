@@ -31,7 +31,7 @@ No passo 4.3 do fluxo básico, o usuário deseja fazer um comentário sobre a in
 
 
 ## 6- Fluxo de Execção de Eventos (FEE)
-* 6.1- **FEE-01: Email inválido:** No passo 5.1.1 (FBE) caso o email for inválido, o sitema retorna a messagem: "Email inválido, por favor, insira um email válido para fazer um comentário."
+* 6.1- **FEE-01: Email inválido:** No passo 5.1.1 (FAE) caso o email for inválido, o sitema retorna a messagem: "Email inválido, por favor, insira um email válido para fazer um comentário."
 
 ## 7- Regra de Négócio (RN)
 Não se aplica.
