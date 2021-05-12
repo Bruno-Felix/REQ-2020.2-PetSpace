@@ -19,7 +19,7 @@
 | CS1 | Req. 2, Req. 3, Req. 6, Req. 8|Comprar Produto |Cliente|
 | CS2 | Req. 2, Req. 3, Req. 6, Req. 8|Comprar Serviço |Cliente|
 | CS3 | Req. 1, Req. 3|Finalizar Compra |Cliente|
-| CS4 | Req. 1, Req. 2, Req. 5|Adotar Pet|Cliente|
+| CS4 | Req. 1, Req. 2, Req. 5, Req. 6, Req. 8|Adotar Pet|Cliente|
 | CS5 | Req. 1|Fazer Login|Cliente|
 | CS6 | Req. 1|Criar Conta|Cliente|
 | CS7 | Req. 1, Req. 4|Avaliar Produto |Cliente|
