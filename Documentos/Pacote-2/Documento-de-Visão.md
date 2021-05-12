@@ -47,17 +47,7 @@
 |**Nosso produto**|Além da venda de produtos, fornece a oferta de serviços e adoção de pets|
 
 
-### 3.2 Mínimo produto viável (MVP)
-
-<!-- - Visualizar lista de produtos;
-- Ver detalhes do produto;
-- Adicionar produto ao carrinho;
-- Autenticação do usuário no site.
-- Finalizar compra.
-- Avaliar produto. -->
-
-
-## 4. Documento de necessidades
+## 4. Necessidades
 
 |**Necessidade**|**Prioridade**|**Problema**|**Solução Atual**| **Solução Proposta** |
 | - | - | - | - | - |
@@ -103,6 +93,15 @@
 | CS15 | Req. 1, Req. 7|Excluir Produto|Administrador|
 | CS16 | Req. 1, Req. 7|Excluir Serviço|Administrador|
 | CS17 | Req. 1, Req. 7|Excluir Instituição de Adoção de Pet|Administrador|
+
+### 5.3 Mínimo produto viável (MVP)
+
+<!-- - Visualizar lista de produtos;
+- Ver detalhes do produto;
+- Adicionar produto ao carrinho;
+- Autenticação do usuário no site.
+- Finalizar compra.
+- Avaliar produto. -->
 
 
 ## 6. Diagrama de caso de uso
