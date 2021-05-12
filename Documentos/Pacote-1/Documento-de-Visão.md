@@ -2,17 +2,15 @@
 
 ## HISTÓRICO DE REVISÃO 
 
-
-
 |**Versão**|**Data**|**Descrição**|**Nome**|
 | - | - | - | - |
 |1.0|18/02/2021|Criação do documento|Equipe Void|
 |2.0|10/03/2021|Revisão do documento perante ao feedback do professor|Equipe Void|
 
+
 ## 1. INTRODUÇÃO 
 
-###  1.1 DECLARAÇÃO DO PROBLEMA
-
+### 1.1 DECLARAÇÃO DO PROBLEMA
 
 |**O problema**|A não praticidade e facilidade de obter produtos e serviços voltados aos pets|
 | - | :- |
@@ -20,14 +18,13 @@
 |**Cujo impacto é**|A pouca diversidade de interação dos donos e seus animais|
 |**Uma solução de sucesso seria**|Um e-commerce para a venda de produtos, serviços e adoção de pets|
 
+
 ### 1.2 OBJETIVO DO PROJETO
 
 Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No meio da pandemia da COVID-19, vários aspectos foram afetados, um deles foi a livre circulação, tornando a compra pela internet, além de uma medida de segurança, prático. Com isso percebemos a oportunidade de criar uma loja virtual para que pessoas consigam comprar produtos e serviços focados para seus pets.
 
 
-## 2- STAKEHOLDERS
-
-
+## 2. STAKEHOLDERS
 
 |**Nome**|**Descrição**|**Responsabilidade**|
 | - | - | - |
@@ -37,11 +34,9 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 |Professor Orientador|Professor da disciplina Requisitos de Software|   Avaliar e gerar feedback sobre projeto|
 
 
-## 3- VISÃO GERAL DO PRODUTO
+## 3. VISÃO GERAL DO PRODUTO
 
 ### 3.1 DECLARAÇÃO DE POSIÇÃO DO PRODUTO
-
-
 
 |**Para**|Donos de Pets|
 | - | - |
@@ -50,6 +45,7 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 |**Que**|busca fornecer praticidade e facilidade na compra de produtos, serviços e adoção de animais|
 |**Ao contrário**|da Petz, que somente faz venda de produtos|
 |**Nosso produto**|Além da venda de produtos, fornece a oferta de serviços e adoção de pets|
+
 
 ### 3.2 MÍNIMO PRODUTO VIÁVEL (MVP)
 - Visualizar lista de produtos;
@@ -64,8 +60,6 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 
 ### 4.1 ORGANIZAÇÃO DO PROJETO
 
-
-
 |**Papel**|**Atribuição**|**Responsável**|
 | - | - | - |
 |Professor|Orientar e resolver problemas em última instância.|George|
@@ -75,9 +69,7 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 |Time de Desenvolvimento|É a equipe de profissionais responsável por transformar o Product Backlog em um produto funcional.|Bruno Félix, Francisco Ferreira, Hércules Ismael, Daniel Primo e Pedro Henrique|
 
 
-## 5- FERRAMENTAS, AMBIENTE E INFRAESTRUTURA
-
-
+## 5. FERRAMENTAS, AMBIENTE E INFRAESTRUTURA
 
 |**Ferramentas**|**Descrição**|
 | - | - |
@@ -86,17 +78,16 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 |phpMyAdmin|É um aplicativo web livre e de código aberto desenvolvido em PHP para administração do MySQL pela Internet.|
 |Docker|É um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres.|
 
-
 |Heroku|É uma plataforma em nuvem como um serviço que suporta várias linguagens de programação.|
 | - | :- |
 |Travis CI|É um serviço de integração contínua hospedado usado para construir e testar projetos de software hospedados no GitHub e Bitbucket.|
 |Dockerhub|É um repositório público onde empresas podem publicar suas soluções em forma de imagem|
 |GitHub|É uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.|
 
-## 6- PROCESSO DE GERÊNCIA DE PROJETO
+
+## 6. PROCESSO DE GERÊNCIA DE PROJETO
 
 ### 6.1 PLANEJAMENTO DAS FASES E ITERAÇÕES DO PROJETO
-
 
 |**Sprint**|**Data**|**Descrição**|
 | - | - | - |
@@ -113,15 +104,15 @@ O processo de desenvolvimento da aplicação será conduzido por meio do uso de 
 
 Nosso processo de mensuração, no planejamento da Sprint, será baseado nos Burndown report e Velocity tracking, do recurso ZenHub da plataforma GitHub. Usaremos também uma pontuação, o Planning Poker, para definir a dificuldade de desenvolvimento de uma User Story, assim mensurando bem os esforços e o tempo gasto durante a Sprint.
 
+
 ### 6.3 MATRIZ DE COMUNICAÇÃO
-
-
 
 |**Descrição**|**Área/ Envolvidas**|**Periodicidade**|**Produtos Gerados**|
 | - | - | - | - |
 |Revisar todas as tarefas feitas na semana anterior; Planejar as tarefas para a próxima semana.|Equipe de Desenvolvimento|Baseado no fim das Sprints do tópico 6.1| Planning da Sprint seguinte;Revisão da Sprint anterior; Ata da Reunião.|
 |Comunicar o que está feito, inpecílicios, e o que planeja ainda fazer|Equipe de Desenvolvimento|Segunda, Quarta e Sexta|Ata da Reunião|
 |Receber feedbacks das entregas do projeto|Equipe de Desenvolvimento e o Professor|Ao final de cada Sprint| Feedback|
+
 
 ### 6.4 ESCALABILIDADE DO PROJETO
 
@@ -131,8 +122,6 @@ Caso ocorra algum problema no desenvolvimento o desenvolvedor deve tentar saná-
 
 
 ### 6.5 GERENCIAMENTO DE RISCO
-
-
 
 |**ID**|**Descrição**|**Ação**|
 | - | - | - |
@@ -150,8 +139,6 @@ Caso ocorra algum problema no desenvolvimento o desenvolvedor deve tentar saná-
 |RS12|Falta de interação entre a equipe|Chamar os membros para alguma atividade divertida fora do contexto da disciplina|
 
 
-
-
 ### 6.6 CRITÉRIOS DE REPLANEJAMENTO
 
 Ter bem definido os critérios de replanejamento assegurará uma boa entrega do produto, levantamos 3 que serão cruciais no projeto.
@@ -160,14 +147,14 @@ Ter bem definido os critérios de replanejamento assegurará uma boa entrega do 
 - Mudança de escopo do produto: Baseado numa mudança de visão, ou por um curto espaço de tempo hábil para o desenvolvimento, talvez se mostre necessário replanejar que será entregue;
 - Poucas entregas: Ao final de cada sprint será feita uma reunião de revisão, pode-se notar uma diferença grande entre o planejado e o entregue. Isso pede que no planejamento da próxima Sprint seja levantado o que deu errado e o que pode ser feito para que as entregas da Sprint passadas sejam feitas e que as novas sejam bem desenvolvidas, dentro do prazo e do planejamento.
 
-## 7- LIÇÕES APRENDIDAS
+
+## 7. LIÇÕES APRENDIDAS
 
 A falta de comunicação devido a poucas reuniões nos levaram a ter visões diferentes do projeto, com o passar disciplina, aumentar a frequência das reuniões e, principalmente, fazer uso do Lean inception, conseguimos alinhar bem melhor as ideias. Além disso, os conhecimentos relacionados a requisitos foram sendo solidificados e lapidados, fazendo com que cada vez mais tivéssemos uma ideia clara do projeto, conseguindo assim, levantar de forma bem mais clara e coerente os requisitos para o desenvolvimento das entregas de cada unidade e do produto final.
 
-## 8 REFERÊNCIAS 
 
-Schwaber, K. & Beedle, M. (2002). Agile software development with Scrum. New Jersey: Prentice Hall.
+## 8. REFERÊNCIAS 
 
-Ambler, S. (2004). Modelagem Ágil: práticas eficazes para a Programação eXtrema e o Processo Unificado. Porto Alegre: Bookman.
-
-Beck, K. (2004). Programação eXtrema (XP) explicada: acolha as mudanças. Porto Alegre: Bookman.
+> - Schwaber, K. & Beedle, M. (2002). Agile software development with Scrum. New Jersey: Prentice Hall;
+> - Ambler, S. (2004). Modelagem Ágil: práticas eficazes para a Programação eXtrema e o Processo Unificado. Porto Alegre: Bookman;
+> - Beck, K. (2004). Programação eXtrema (XP) explicada: acolha as mudanças. Porto Alegre: Bookman.
