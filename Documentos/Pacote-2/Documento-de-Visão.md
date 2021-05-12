@@ -2,17 +2,15 @@
 
 ## Histórico de revisão
 
-
-
 |**Versão**|**Data**|**Descrição**|**Nome**|
 | - | - | - | - |
 |1.0|18/02/2021|Criação do documento|Equipe Void|
 |2.0|10/03/2021|Revisão do documento perante ao feedback do professor|Equipe Void|
 
+
 ## 1. Introdução 
 
 ###  1.1 Declaração do problema
-
 
 |**O problema**|A não praticidade e facilidade de obter produtos e serviços voltados aos pets|
 | - | :- |
@@ -22,12 +20,10 @@
 
 ### 1.2 Objetivo do projeto
 
-Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No meio da pandemia da COVID-19, vários aspectos foram afetados, um deles foi a livre circulação, tornando a compra pela internet, além de uma medida de segurança, prático. Com isso percebemos a oportunidade de criar uma loja virtual para que pessoas consigam comprar produtos e serviços focados para seus pets.
+&emsp;&emsp;Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No meio da pandemia da COVID-19, vários aspectos foram afetados, um deles foi a livre circulação, tornando a compra pela internet, além de uma medida de segurança, prático. Com isso percebemos a oportunidade de criar uma loja virtual para que pessoas consigam comprar produtos e serviços focados para seus pets.
 
 
-## 2- Stakeholders
-
-
+## 2. Stakeholders
 
 |**Nome**|**Descrição**|**Responsabilidade**|
 | - | - | - |
@@ -37,10 +33,9 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 |Professor Orientador|Professor da disciplina Requisitos de Software|   Avaliar e gerar feedback sobre projeto|
 
 
-## 3- Visão geral do produto
+## 3. Visão geral do produto
 
-### 3.1 Declaração de posição do produto.
-
+### 3.1 Declaração de posição do produto
 
 |**Para**|Donos de Pets|
 | - | - |
@@ -52,6 +47,7 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 
 
 ### 3.2 Mínimo produto viável (MVP)
+
 - Visualizar lista de produtos;
 - Ver detalhes do produto;
 - Adicionar produto ao carrinho;
@@ -60,8 +56,7 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 - Avaliar produto.
 
 
-## 4- Documento de necessidades
-
+## 4. Documento de necessidades
 
 |**Necessidade**|**Prioridade**|**Problema**|**Solução Atual**| **Solução Proposta** |
 | - | - | - | - | - |
@@ -70,7 +65,7 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 | Realizar adoção de pets | Baixa | Dificuldade de encontrar as diversas opções de adoção | Ir em um local específico para realizar uma adoção | Centralizar as opções de adoção, facilitando a busca e o contato |
 
 
-## 5- Casos de uso
+## 5. Casos de uso
 
 ### 5.1 Requisitos
 
@@ -85,8 +80,8 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 |Req. 7|Cadastro, gerência e acompanhamento de elementos| |
 |Req. 8|Listagem de elementos| |
 
-### 5.2 Casos de uso
 
+### 5.2 Casos de uso
 
 | ID |Requisito|Caso de Uso|Atores|
 |-| - | - | - |
@@ -103,16 +98,14 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 | |Req. 1, Req. 6, Req. 7,Req. 8|Listar produtos| Administrador|
 
 
-## 6- Diagrama de caso de uso
+## 6. Diagrama de caso de uso
 
 ![](https://raw.githubusercontent.com/Bruno-Felix/REQ-2020.2-PetSpace/gh-page/images/Use-case.png)
 
 
-## 4- Visão geral do projeto
+## 4. Visão geral do projeto
 
 ### 4.1 Organização do projeto
-
-
 
 |**Papel**|**Atribuição**|**Responsável**|
 | - | - | - |
@@ -123,9 +116,7 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 |Time de Desenvolvimento|É a equipe de profissionais responsável por transformar o Product Backlog em um produto funcional.|Bruno Félix, Francisco Ferreira, Hércules Ismael, Daniel Primo e Pedro Henrique|
 
 
-## 5- Ferramentas, ambiente e infraestrutura
-
-
+## 5. Ferramentas, ambiente e infraestrutura
 
 |**Ferramentas**|**Descrição**|
 | - | - |
@@ -134,17 +125,16 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 |phpMyAdmin|É um aplicativo web livre e de código aberto desenvolvido em PHP para administração do MySQL pela Internet.|
 |Docker|É um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres.|
 
-
 |Heroku|É uma plataforma em nuvem como um serviço que suporta várias linguagens de programação.|
 | - | :- |
 |Travis CI|É um serviço de integração contínua hospedado usado para construir e testar projetos de software hospedados no GitHub e Bitbucket.|
 |Dockerhub|É um repositório público onde empresas podem publicar suas soluções em forma de imagem|
 |GitHub|É uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.|
 
-## 6- Processo de gerência de projeto
+
+## 6. Processo de gerência de projeto
 
 ### 6.1 Planejamento das fases e iterações do projeto
-
 
 |**Sprint**|**Data**|**Descrição**|
 | - | - | - |
@@ -157,13 +147,12 @@ Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No
 
 ### 6.2 Processos de desenvolvimento e mensuração
 
-O processo de desenvolvimento da aplicação será conduzido por meio do uso de certas práticas da metodologia SCRUM, tendo seus ritos adaptados à realidade do projeto, considerando o contexto de home office por conta da pandemia. O projeto será acompanhado por meio de reuniões semanais, para o planejamento da sprint e revisão da sprint anterior. Além disso, serão realizadas reuniões rápidas, nos moldes de dailys, da metodologia SCRUM, porém realizadas 3 vezes por semana, para rastrear eventuais impedimentos e ter uma boa perspectiva do que está sendo feito. As datas finais das fases do projeto serão as bases para as Releases do produto.
+&emsp;&emsp;O processo de desenvolvimento da aplicação será conduzido por meio do uso de certas práticas da metodologia SCRUM, tendo seus ritos adaptados à realidade do projeto, considerando o contexto de home office por conta da pandemia. O projeto será acompanhado por meio de reuniões semanais, para o planejamento da sprint e revisão da sprint anterior. Além disso, serão realizadas reuniões rápidas, nos moldes de dailys, da metodologia SCRUM, porém realizadas 3 vezes por semana, para rastrear eventuais impedimentos e ter uma boa perspectiva do que está sendo feito. As datas finais das fases do projeto serão as bases para as Releases do produto.
 
-Nosso processo de mensuração, no planejamento da Sprint, será baseado nos Burndown report e Velocity tracking, do recurso ZenHub da plataforma GitHub. Usaremos também uma pontuação, o Planning Poker, para definir a dificuldade de desenvolvimento de uma User Story, assim mensurando bem os esforços e o tempo gasto durante a Sprint.
+&emsp;&emsp;Nosso processo de mensuração, no planejamento da Sprint, será baseado nos Burndown report e Velocity tracking, do recurso ZenHub da plataforma GitHub. Usaremos também uma pontuação, o Planning Poker, para definir a dificuldade de desenvolvimento de uma User Story, assim mensurando bem os esforços e o tempo gasto durante a Sprint.
+
 
 ### 6.3 Matriz de comunicação
-
-
 
 |**Descrição**|**Área/ Envolvidas**|**Periodicidade**|**Produtos Gerados**|
 | - | - | - | - |
@@ -171,16 +160,15 @@ Nosso processo de mensuração, no planejamento da Sprint, será baseado nos Bur
 |Comunicar o que está feito, inpecílicios, e o que planeja ainda fazer|Equipe de Desenvolvimento|Segunda, Quarta e Sexta|Ata da Reunião|
 |Receber feedbacks das entregas do projeto|Equipe de Desenvolvimento e o Professor|Ao final de cada Sprint| Feedback|
 
+
 ### 6.4 Escalabilidade do projeto
 
-A necessidade de mudança e resolução de problemas é uma característica inerente ao desenvolvimento de software.
+&emsp;&emsp;A necessidade de mudança e resolução de problemas é uma característica inerente ao desenvolvimento de software.
 
-Caso ocorra algum problema no desenvolvimento o desenvolvedor deve tentar saná-lo por si só, caso não consiga, ficará a cargo do DevOps resolver o problema e garantir a continuidade do projeto. Se o problema persistir e estiver relacionado a integração do time, o Scrum Master será acionado e tentará solucionar o problema. Caso seja um problema de requisitos ou visão do produto, será acionado o Product Owner para reavaliar os requisitos e talvez fazer uma nova reunião com o cliente. Mas caso o problema seja em relação à matéria ou orientação de projeto, o professor será acionado como última instância.
+&emsp;&emsp;Caso ocorra algum problema no desenvolvimento o desenvolvedor deve tentar saná-lo por si só, caso não consiga, ficará a cargo do DevOps resolver o problema e garantir a continuidade do projeto. Se o problema persistir e estiver relacionado a integração do time, o Scrum Master será acionado e tentará solucionar o problema. Caso seja um problema de requisitos ou visão do produto, será acionado o Product Owner para reavaliar os requisitos e talvez fazer uma nova reunião com o cliente. Mas caso o problema seja em relação à matéria ou orientação de projeto, o professor será acionado como última instância.
 
 
 ### 6.5 Gerenciamento de risco
-
-
 
 |**ID**|**Descrição**|**Ação**|
 | - | - | - |
@@ -198,24 +186,22 @@ Caso ocorra algum problema no desenvolvimento o desenvolvedor deve tentar saná-
 |RS12|Falta de interação entre a equipe|Chamar os membros para alguma atividade divertida fora do contexto da disciplina|
 
 
-
-
 ### 6.6 Critérios de replanejamento
 
-Ter bem definido os critérios de replanejamento assegurará uma boa entrega do produto, levantamos 3 que serão cruciais no projeto.
+&emsp;&emsp;Ter bem definido os critérios de replanejamento assegurará uma boa entrega do produto, levantamos 3 que serão cruciais no projeto.
 
 - Mudança de visão do projeto: Ao debater sobre uma funcionalidade, ou conversar com o cliente e entender melhor suas necessidades, podem haver novas perspectivas sobre o que o projeto deveria ser, havendo assim, a necessidade de replanejar e realinhar a visão do projeto;
 - Mudança de escopo do produto: Baseado numa mudança de visão, ou por um curto espaço de tempo hábil para o desenvolvimento, talvez se mostre necessário replanejar que será entregue;
 - Poucas entregas: Ao final de cada sprint será feita uma reunião de revisão, pode-se notar uma diferença grande entre o planejado e o entregue. Isso pede que no planejamento da próxima Sprint seja levantado o que deu errado e o que pode ser feito para que as entregas da Sprint passadas sejam feitas e que as novas sejam bem desenvolvidas, dentro do prazo e do planejamento.
 
-## 7- Lições aprendidas
 
-A falta de comunicação devido a poucas reuniões nos levaram a ter visões diferentes do projeto, com o passar disciplina, aumentar a frequência das reuniões e, principalmente, fazer uso do Lean inception, conseguimos alinhar bem melhor as ideias. Além disso, os conhecimentos relacionados a requisitos foram sendo solidificados e lapidados, fazendo com que cada vez mais tivéssemos uma ideia clara do projeto, conseguindo assim, levantar de forma bem mais clara e coerente os requisitos para o desenvolvimento das entregas de cada unidade e do produto final.
+## 7. Lições aprendidas
 
-## 8 Referências 
+&emsp;&emsp;A falta de comunicação devido a poucas reuniões nos levaram a ter visões diferentes do projeto, com o passar disciplina, aumentar a frequência das reuniões e, principalmente, fazer uso do Lean inception, conseguimos alinhar bem melhor as ideias. Além disso, os conhecimentos relacionados a requisitos foram sendo solidificados e lapidados, fazendo com que cada vez mais tivéssemos uma ideia clara do projeto, conseguindo assim, levantar de forma bem mais clara e coerente os requisitos para o desenvolvimento das entregas de cada unidade e do produto final.
 
-Schwaber, K. & Beedle, M. (2002). Agile software development with Scrum. New Jersey: Prentice Hall.
 
-Ambler, S. (2004). Modelagem Ágil: práticas eficazes para a Programação eXtrema e o Processo Unificado. Porto Alegre: Bookman.
+## 8. Referências 
 
-Beck, K. (2004). Programação eXtrema (XP) explicada: acolha as mudanças. Porto Alegre: Bookman.
+> - Schwaber, K. & Beedle, M. (2002). Agile software development with Scrum. New Jersey: Prentice Hall.
+> - Ambler, S. (2004). Modelagem Ágil: práticas eficazes para a Programação eXtrema e o Processo Unificado. Porto Alegre: Bookman.
+> - Beck, K. (2004). Programação eXtrema (XP) explicada: acolha as mudanças. Porto Alegre: Bookman.
