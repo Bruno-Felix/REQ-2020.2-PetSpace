@@ -1,7 +1,5 @@
 # Sprint 3
 
-## Planejamento
-
 ## 1. Visão Geral
 
 Nessa sprint foi trabalhado os seguintes topicos.
