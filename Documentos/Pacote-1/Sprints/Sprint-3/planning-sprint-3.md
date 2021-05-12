@@ -2,24 +2,18 @@
 
 ## Planejamento
 
-## 1- Visão Geral
+## 1. Visão Geral
 
 Nessa sprint foi trabalhado os seguintes topicos.
 
-- Priorizar o Backlog do produto
-
-- Estabelecer o Backlog da Sprint
-
-- Estimar as histórias da Sprint
-
-- Estabelecer os critérios da aceitação das histórias da Sprint
-
-- Implementar as histórias da Sprint
+- Priorizar o Backlog do produto;
+- Estabelecer o Backlog da Sprint;
+- Estimar as histórias da Sprint;
+- Estabelecer os critérios da aceitação das histórias da Sprint;
+- Implementar as histórias da Sprint.
 
 
-
-
-## 2- Presença das reuniões
+## 2. Presença das reuniões
 
 |Nome | Papel| Presença|
 |-----|------|---------|
@@ -28,14 +22,14 @@ Nessa sprint foi trabalhado os seguintes topicos.
 |Francisco Ferreia| Devops/Dev| Presente |
 |Pedro Henrique| Desenvolvedor| Presente| 
 
-## 3- Reuniões
-Data: 25/10
 
-Horário: 18h
+## 3. Reuniões
+- Data: 25/10;
+- Horário: 18h;
+- Local: Reunião online (Jitsi).
 
-Local: Reunião online (Jitsi)
 
-## 4- Sprint Backlog
+## 4. Sprint Backlog
 | issue | ID  | Descrição |Pontuação|  Responsáveis|
 |---------|-----|-------------|----------------|------------|
 | #26 |US01 | Cadastrar produtos| 3 | Bruno | 
@@ -57,7 +51,3 @@ Local: Reunião online (Jitsi)
 | #23 |US17 | Excluir uma conta| 2 | Daniel |
 | #24 |US18 | Ver detalhes da conta| 2 | Daniel |
 | #25 |US19 | Avaliar um produto | 2 | Daniel |
-
-
-
-

@@ -4,7 +4,7 @@
     - [Documento de Visão](/Documentos/Pacote-1/Documento-de-Visão.md)
     - [Product Backlog](/Documentos/Pacote-1/Product-Backlog.md)
     - [Lean Inception]()
-    - [Planning](/Documentos/Pacote-1/Sprints/Sprint-3/planning-sprint-3.md)
+    - [Planning Sprint 3](/Documentos/Pacote-1/Sprints/Sprint-3/planning-sprint-3.md)
     - [Quadro Kanban](Documentos/Pacote-1/Quadro-kanban.md)
         
 * [**Pacote 2**](#)
