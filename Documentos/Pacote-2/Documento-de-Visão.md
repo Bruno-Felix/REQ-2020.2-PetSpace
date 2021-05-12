@@ -6,6 +6,7 @@
 | - | - | - | - |
 |1.0|18/02/2021|Criação do documento|Equipe Void|
 |2.0|10/03/2021|Revisão do documento perante ao feedback do professor|Equipe Void|
+|3.0|26/04/2021|Atualização do Documento de Visão perante a nova metodologia|Bruno Félix|
 
 
 ## 1. Introdução 
@@ -40,20 +41,20 @@
 |**Para**|Donos de Pets|
 | - | - |
 |**Quem**|Necessitam comprar produtos, agendar serviços voltado aos pets, adotar um novo pet|
-|**O PetSpace**|é um e-commerce|
-|**Que**|busca fornecer praticidade e facilidade na compra de produtos, serviços e adoção de animais|
-|**Ao contrário**|da Petz, que somente faz venda de produtos|
+|**O PetSpace**|É um e-commerce|
+|**Que**|Busca fornecer praticidade e facilidade na compra de produtos, serviços e adoção de animais|
+|**Ao contrário**|Da Petz, que somente faz venda de produtos|
 |**Nosso produto**|Além da venda de produtos, fornece a oferta de serviços e adoção de pets|
 
 
 ### 3.2 Mínimo produto viável (MVP)
 
-- Visualizar lista de produtos;
+<!-- - Visualizar lista de produtos;
 - Ver detalhes do produto;
 - Adicionar produto ao carrinho;
 - Autenticação do usuário no site.
 - Finalizar compra.
-- Avaliar produto.
+- Avaliar produto. -->
 
 
 ## 4. Documento de necessidades
@@ -85,17 +86,23 @@
 
 | ID |Requisito|Caso de Uso|Atores|
 |-| - | - | - |
-| |Req. 2, Req. 3| Comprar produtos |Cliente|
-| |Req. 2, Req. 3| Comprar serviços |Cliente|
-| |Req. 5|Adotar pet|Cliente|
-| |Req. 1|Criar conta|Cliente|
-| |Req. 1|Fazer login|Cliente|
-| |Req. 1, Req. 4|Avaliar produto |Cliente|
-| |Req. 1, Req. 4|Avaliar serviços |Cliente|
-| |Req. 1, Req. 7|Fazer cadastro|Administrador|
-| |Req. 1, Req. 7|Fazer edição|Administrador|
-| |Req. 1, Req. 7|Fazer exclusão|Administrador|
-| |Req. 1, Req. 6, Req. 7,Req. 8|Listar produtos| Administrador|
+| CS1 | Req. 2, Req. 3, Req. 6, Req. 8|Comprar Produto |Cliente|
+| CS2 | Req. 2, Req. 3, Req. 6, Req. 8|Comprar Serviço |Cliente|
+| CS3 | Req. 1, Req. 3|Finalizar Compra |Cliente|
+| CS4 | Req. 1, Req. 2, Req. 5, Req. 6, Req. 8|Adotar Pet|Cliente|
+| CS5 | Req. 1|Fazer Login|Cliente|
+| CS6 | Req. 1|Criar Conta|Cliente|
+| CS7 | Req. 1, Req. 4|Avaliar Produto |Cliente|
+| CS8 | Req. 1, Req. 4|Avaliar Serviço |Cliente|
+| CS9 | Req. 1, Req. 7|Cadastrar Produto|Administrador|
+| CS10 | Req. 1, Req. 7|Cadastrar Serviço|Administrador|
+| CS11 | Req. 1, Req. 7|Cadastrar Instituição de Adoção de Pet|Administrador|
+| CS12 | Req. 1, Req. 7|Editar Produto|Administrador|
+| CS13 | Req. 1, Req. 7|Editar Serviço|Administrador|
+| CS14 | Req. 1, Req. 7|Editar Instituição de Adoção de Pet|Administrador|
+| CS15 | Req. 1, Req. 7|Excluir Produto|Administrador|
+| CS16 | Req. 1, Req. 7|Excluir Serviço|Administrador|
+| CS17 | Req. 1, Req. 7|Excluir Instituição de Adoção de Pet|Administrador|
 
 
 ## 6. Diagrama de caso de uso
@@ -103,9 +110,9 @@
 ![](https://raw.githubusercontent.com/Bruno-Felix/REQ-2020.2-PetSpace/gh-page/images/Use-case.png)
 
 
-## 4. Visão geral do projeto
+## 7. Visão geral do projeto
 
-### 4.1 Organização do projeto
+### 7.1 Organização do projeto
 
 |**Papel**|**Atribuição**|**Responsável**|
 | - | - | - |
@@ -116,7 +123,7 @@
 |Time de Desenvolvimento|É a equipe de profissionais responsável por transformar o Product Backlog em um produto funcional.|Bruno Félix, Francisco Ferreira, Hércules Ismael, Daniel Primo e Pedro Henrique|
 
 
-## 5. Ferramentas, ambiente e infraestrutura
+## 8. Ferramentas, ambiente e infraestrutura
 
 |**Ferramentas**|**Descrição**|
 | - | - |
@@ -132,9 +139,9 @@
 |GitHub|É uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.|
 
 
-## 6. Processo de gerência de projeto
+## 9. Processo de gerência de projeto
 
-### 6.1 Planejamento das fases e iterações do projeto
+### 9.1 Planejamento das fases e iterações do projeto
 
 |**Sprint**|**Data**|**Descrição**|
 | - | - | - |
@@ -145,14 +152,14 @@
 |Sprint 5|27/abr a 13/mai|Definição do Escopo da Iteração Gerenciamento dos Requisitos|
 
 
-### 6.2 Processos de desenvolvimento e mensuração
+### 9.2 Processos de desenvolvimento e mensuração
 
 &emsp;&emsp;O processo de desenvolvimento da aplicação será conduzido por meio do uso de certas práticas da metodologia SCRUM, tendo seus ritos adaptados à realidade do projeto, considerando o contexto de home office por conta da pandemia. O projeto será acompanhado por meio de reuniões semanais, para o planejamento da sprint e revisão da sprint anterior. Além disso, serão realizadas reuniões rápidas, nos moldes de dailys, da metodologia SCRUM, porém realizadas 3 vezes por semana, para rastrear eventuais impedimentos e ter uma boa perspectiva do que está sendo feito. As datas finais das fases do projeto serão as bases para as Releases do produto.
 
 &emsp;&emsp;Nosso processo de mensuração, no planejamento da Sprint, será baseado nos Burndown report e Velocity tracking, do recurso ZenHub da plataforma GitHub. Usaremos também uma pontuação, o Planning Poker, para definir a dificuldade de desenvolvimento de uma User Story, assim mensurando bem os esforços e o tempo gasto durante a Sprint.
 
 
-### 6.3 Matriz de comunicação
+### 9.3 Matriz de comunicação
 
 |**Descrição**|**Área/ Envolvidas**|**Periodicidade**|**Produtos Gerados**|
 | - | - | - | - |
@@ -161,14 +168,14 @@
 |Receber feedbacks das entregas do projeto|Equipe de Desenvolvimento e o Professor|Ao final de cada Sprint| Feedback|
 
 
-### 6.4 Escalabilidade do projeto
+### 9.4 Escalabilidade do projeto
 
 &emsp;&emsp;A necessidade de mudança e resolução de problemas é uma característica inerente ao desenvolvimento de software.
 
 &emsp;&emsp;Caso ocorra algum problema no desenvolvimento o desenvolvedor deve tentar saná-lo por si só, caso não consiga, ficará a cargo do DevOps resolver o problema e garantir a continuidade do projeto. Se o problema persistir e estiver relacionado a integração do time, o Scrum Master será acionado e tentará solucionar o problema. Caso seja um problema de requisitos ou visão do produto, será acionado o Product Owner para reavaliar os requisitos e talvez fazer uma nova reunião com o cliente. Mas caso o problema seja em relação à matéria ou orientação de projeto, o professor será acionado como última instância.
 
 
-### 6.5 Gerenciamento de risco
+### 9.5 Gerenciamento de risco
 
 |**ID**|**Descrição**|**Ação**|
 | - | - | - |
@@ -186,7 +193,7 @@
 |RS12|Falta de interação entre a equipe|Chamar os membros para alguma atividade divertida fora do contexto da disciplina|
 
 
-### 6.6 Critérios de replanejamento
+### 9.6 Critérios de replanejamento
 
 &emsp;&emsp;Ter bem definido os critérios de replanejamento assegurará uma boa entrega do produto, levantamos 3 que serão cruciais no projeto.
 
@@ -195,12 +202,12 @@
 - Poucas entregas: Ao final de cada sprint será feita uma reunião de revisão, pode-se notar uma diferença grande entre o planejado e o entregue. Isso pede que no planejamento da próxima Sprint seja levantado o que deu errado e o que pode ser feito para que as entregas da Sprint passadas sejam feitas e que as novas sejam bem desenvolvidas, dentro do prazo e do planejamento.
 
 
-## 7. Lições aprendidas
+## 10. Lições aprendidas
 
 &emsp;&emsp;A falta de comunicação devido a poucas reuniões nos levaram a ter visões diferentes do projeto, com o passar disciplina, aumentar a frequência das reuniões e, principalmente, fazer uso do Lean inception, conseguimos alinhar bem melhor as ideias. Além disso, os conhecimentos relacionados a requisitos foram sendo solidificados e lapidados, fazendo com que cada vez mais tivéssemos uma ideia clara do projeto, conseguindo assim, levantar de forma bem mais clara e coerente os requisitos para o desenvolvimento das entregas de cada unidade e do produto final.
 
 
-## 8. Referências 
+## 11. Referências 
 
 > - Schwaber, K. & Beedle, M. (2002). Agile software development with Scrum. New Jersey: Prentice Hall.
 > - Ambler, S. (2004). Modelagem Ágil: práticas eficazes para a Programação eXtrema e o Processo Unificado. Porto Alegre: Bookman.
