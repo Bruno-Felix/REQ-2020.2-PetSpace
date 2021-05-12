@@ -41,9 +41,9 @@
 |**Para**|Donos de Pets|
 | - | - |
 |**Quem**|Necessitam comprar produtos, agendar serviços voltado aos pets, adotar um novo pet|
-|**O PetSpace**|é um e-commerce|
-|**Que**|busca fornecer praticidade e facilidade na compra de produtos, serviços e adoção de animais|
-|**Ao contrário**|da Petz, que somente faz venda de produtos|
+|**O PetSpace**|É um e-commerce|
+|**Que**|Busca fornecer praticidade e facilidade na compra de produtos, serviços e adoção de animais|
+|**Ao contrário**|Da Petz, que somente faz venda de produtos|
 |**Nosso produto**|Além da venda de produtos, fornece a oferta de serviços e adoção de pets|
 
 
@@ -95,8 +95,6 @@
 |Sprint 1|04/fev a 18/fev|Definição do projeto Visão do projeto|
 |Sprint 2|23/fev a 11/mar|Organização estrutural dos requisitos Backlog do Produto|
 |Sprint 3|16/mar a 01/abr|Backlog da Sprint Gerenciamento de requisitos - implementação|
-|Sprint 4|06/abr a 22/abr|Organização estrutural dos requisitos Definição do Produto|
-|Sprint 5|27/abr a 13/mai|Definição do Escopo da Iteração Gerenciamento dos Requisitos|
 
 
 ### 6.2 PROCESSOS DE DESENVOLVIMENTO E MENSURAÇÃO
