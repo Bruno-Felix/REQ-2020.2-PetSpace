@@ -116,10 +116,7 @@
 |**Papel**|**Atribuição**|**Responsável**|
 | - | - | - |
 |Professor|Orientar e resolver problemas em última instância.|George|
-|Scrum Master|Membro responsável por garantir o bom andamento e uso do framework Scrum.|Bruno Félix|
-|Product Owner|Membro responsável por definir estórias e priorizar as funcionalidades do backlog que serão desenvolvidas no projeto|Daniel Primo|
-|DevOps|Membro que entende o ciclo de vida de desenvolvimento de software e traz ferramentas e processos de engenharia de software para resolver desafios clássicos de operações|Francisco Ferreira|
-|Time de Desenvolvimento|É a equipe de profissionais responsável por transformar o Product Backlog em um produto funcional.|Bruno Félix, Francisco Ferreira, Hércules Ismael, Daniel Primo e Pedro Henrique|
+|Time de Desenvolvimento|É a equipe de profissionais responsável por transformar o Product Backlog em um produto funcional.|Bruno Félix, Daniel Primo, Francisco Ferreira e Pedro Henrique|
 
 
 ## 8. Ferramentas, ambiente e infraestrutura
@@ -130,7 +127,6 @@
 |MySQL|É um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface.|
 |phpMyAdmin|É um aplicativo web livre e de código aberto desenvolvido em PHP para administração do MySQL pela Internet.|
 |Docker|É um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres.|
-
 |Heroku|É uma plataforma em nuvem como um serviço que suporta várias linguagens de programação.|
 | - | :- |
 |Travis CI|É um serviço de integração contínua hospedado usado para construir e testar projetos de software hospedados no GitHub e Bitbucket.|
@@ -144,9 +140,6 @@
 
 |**Sprint**|**Data**|**Descrição**|
 | - | - | - |
-|Sprint 1|04/fev a 18/fev|Definição do projeto Visão do projeto|
-|Sprint 2|23/fev a 11/mar|Organização estrutural dos requisitos Backlog do Produto|
-|Sprint 3|16/mar a 01/abr|Backlog da Sprint Gerenciamento de requisitos - implementação|
 |Sprint 4|06/abr a 22/abr|Organização estrutural dos requisitos Definição do Produto|
 |Sprint 5|27/abr a 13/mai|Definição do Escopo da Iteração Gerenciamento dos Requisitos|
 
