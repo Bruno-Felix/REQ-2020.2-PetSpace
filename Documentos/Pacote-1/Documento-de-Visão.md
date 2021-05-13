@@ -149,7 +149,9 @@ Ter bem definido os critérios de replanejamento assegurará uma boa entrega do 
 
 ## 7. LIÇÕES APRENDIDAS
 
-&emsp;&emsp;A falta de comunicação devido a poucas reuniões nos levaram a ter visões diferentes do projeto, com o passar disciplina, aumentar a frequência das reuniões e, principalmente, fazer uso do Lean inception, conseguimos alinhar bem melhor as ideias. Além disso, os conhecimentos relacionados a requisitos foram sendo solidificados e lapidados, fazendo com que cada vez mais tivéssemos uma ideia clara do projeto, conseguindo assim, levantar de forma bem mais clara e coerente os requisitos para o desenvolvimento das entregas de cada unidade e do produto final.
+&emsp;&emsp;A falta de comunicação devido a poucas reuniões nos levaram a ter visões diferentes do projeto, com o passar disciplina, aumentar a frequência das reuniões e, principalmente, fazer uso do Lean inception, conseguimos alinhar bem melhor as ideias.
+&emsp;&emsp;Além disso, os conhecimentos relacionados a requisitos foram sendo solidificados e lapidados, fazendo com que cada vez mais tivéssemos uma ideia clara do projeto, conseguindo assim, levantar de forma bem mais clara e coerente os requisitos para o desenvolvimento das entregas de cada unidade e do produto final.
+&emsp;&emsp;Todo o fluxo de trabalho implementado pelo SAFe auxiliou e muito para o desenvolvimento robusto, descritivo e detalhado do que foi escolhido para ser implementado.
 
 
 ## 8. REFERÊNCIAS 
