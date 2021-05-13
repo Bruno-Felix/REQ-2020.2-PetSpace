@@ -158,12 +158,13 @@
 
 ### 9.3 Matriz de comunicação
 
-|**Descrição**|**Área/ Envolvidas**|**Periodicidade**|**Produtos Gerados**|
-| - | - | - | - |
-|Revisar todas as tarefas feitas na semana anterior; Planejar as tarefas para a próxima semana.|Equipe de Desenvolvimento|Baseado no fim das Sprints do tópico 6.1| Planning da Sprint seguinte;Revisão da Sprint anterior; Ata da Reunião.|
-|Comunicar o que está feito, inpecílicios, e o que planeja ainda fazer|Equipe de Desenvolvimento|Segunda, Quarta e Sexta|Ata da Reunião|
-|Receber feedbacks das entregas do projeto|Equipe de Desenvolvimento e o Professor|Ao final de cada Sprint| Feedback|
-
+|**Comunicação**|**Proposta**|**Meio**|**Frequência**|**Participantes**|
+| - | - | - | - | - |
+| Reunião de iniciação | Definir prazos e objetivos | Video-chamada através do Microsoft Teams | Ao inicio de cada unidade | Time de desenvolvimento e professor |
+| Reunião do time de desenvolvimento | Comunicar o andamento do desenvolvimento | Vídeo-chamada através do Jitsu | Semanalmente | Time de desenvolvimento |
+| Reunião de relatório do projeto | Analisar os resultados do projeto | Vídeo-chamada através do Jitsu | Mensalmente | Time de desenvolvimento |
+| Reunião de problemas técnicos | Comunicar algum impedimento ou problema técnico | Vídeo-chamada através do Jitsu | Quando necessário | Time de desenvolvimento |
+| Reunião de encerramento de unidade | Apresentar os resultados desenvolvidos e receber o feedback | Vídeo-chamada através do Microsoft-teams | Ao fim de cada unidade | Time de desenvolvimento e professor |
 
 ### 9.4 Gerenciamento de risco
 
