@@ -97,12 +97,9 @@
 
 ### 5.3 Mínimo produto viável (MVP)
 
-<!-- - Visualizar lista de produtos;
-- Ver detalhes do produto;
-- Adicionar produto ao carrinho;
-- Autenticação do usuário no site.
-- Finalizar compra.
-- Avaliar produto. -->
+- Fazer adoção;
+- Fazer avaliação de produto;
+- Compartilhar em redes sociais
 
 
 ## 6. Diagrama de caso de uso
