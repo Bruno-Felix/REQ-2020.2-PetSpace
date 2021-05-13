@@ -24,7 +24,7 @@
    * Não se aplica.
 
 ## 7- Regra de Négócio (RN)
-Não se aplica.
+   * Não se aplica.
 
 ## 8- Pós-condições
    * Não se aplica.
