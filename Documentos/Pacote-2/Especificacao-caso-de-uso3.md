@@ -1,5 +1,5 @@
 
-# Caso de Uso: **Fazer adoção**
+# Caso de Uso: **Adotar Pet**
 
 ## 1- Breve Descrição
    O presente caso de uso descreve o fluxo de atividades e execução do serviço de adoção. O serviço de adoção consiste na execução de uma comunicação de um usuário do site PetSpace com uma instituição de adoção, tal como a UIPA (União Internacional Protetora dos Animais).
