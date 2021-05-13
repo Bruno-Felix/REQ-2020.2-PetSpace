@@ -12,6 +12,6 @@
     - [Requisitos x Casos de Uso](/Documentos/Pacote-2/RequisitosXcaso_de_uso.md)
     - [Documento de Necessidade](/Documentos/Pacote-2/Documento-necessidade.md)
     - [Diagrama de Casos de Uso](/Documentos/Pacote-2/Use-case.md)
-        - [Fazer cadastro de produto](/Documentos/Pacote-2/Especificacao-caso-de-uso1.md)
-        - [Avaliar um Produto](/Documentos/Pacote-2/Especificacao-caso-de-uso2.md)
+        - [Avaliar um Produto](/Documentos/Pacote-2/Especificacao-caso-de-uso1.md)
+        - [Compartilhar nas Redes Sociais](/Documentos/Pacote-2/Especificacao-caso-de-uso2.md)
         - [Adotar Pet](/Documentos/Pacote-2/Especificacao-caso-de-uso3.md)
