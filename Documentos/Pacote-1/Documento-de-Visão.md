@@ -21,7 +21,7 @@
 
 ### 1.2 OBJETIVO DO PROJETO
 
-&emsp;&emsp;Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No meio da pandemia da COVID-19, vários aspectos foram afetados, um deles foi a livre circulação, tornando a compra pela internet, além de uma medida de segurança, prático. Com isso percebemos a oportunidade de criar uma loja virtual para que pessoas consigam comprar produtos e serviços focados para seus pets.
+Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No meio da pandemia da COVID-19, vários aspectos foram afetados, um deles foi a livre circulação, tornando a compra pela internet, além de uma medida de segurança, prático. Com isso percebemos a oportunidade de criar uma loja virtual para que pessoas consigam comprar produtos e serviços focados para seus pets.
 
 
 ## 2. STAKEHOLDERS
@@ -99,9 +99,9 @@
 
 ### 6.2 PROCESSOS DE DESENVOLVIMENTO E MENSURAÇÃO
 
-&emsp;&emsp;O processo de desenvolvimento da aplicação será conduzido por meio do uso de certas práticas da metodologia SCRUM, tendo seus ritos adaptados à realidade do projeto, considerando o contexto de home office por conta da pandemia. O projeto será acompanhado por meio de reuniões semanais, para o planejamento da sprint e revisão da sprint anterior. Além disso, serão realizadas reuniões rápidas, nos moldes de dailys, da metodologia SCRUM, porém realizadas 3 vezes por semana, para rastrear eventuais impedimentos e ter uma boa perspectiva do que está sendo feito. As datas finais das fases do projeto serão as bases para as Releases do produto.
+O processo de desenvolvimento da aplicação será conduzido por meio do uso de certas práticas da metodologia SCRUM, tendo seus ritos adaptados à realidade do projeto, considerando o contexto de home office por conta da pandemia. O projeto será acompanhado por meio de reuniões semanais, para o planejamento da sprint e revisão da sprint anterior. Além disso, serão realizadas reuniões rápidas, nos moldes de dailys, da metodologia SCRUM, porém realizadas 3 vezes por semana, para rastrear eventuais impedimentos e ter uma boa perspectiva do que está sendo feito. As datas finais das fases do projeto serão as bases para as Releases do produto.
 
-&emsp;&emsp;Nosso processo de mensuração, no planejamento da Sprint, será baseado nos Burndown report e Velocity tracking, do recurso ZenHub da plataforma GitHub. Usaremos também uma pontuação, o Planning Poker, para definir a dificuldade de desenvolvimento de uma User Story, assim mensurando bem os esforços e o tempo gasto durante a Sprint.
+Nosso processo de mensuração, no planejamento da Sprint, será baseado nos Burndown report e Velocity tracking, do recurso ZenHub da plataforma GitHub. Usaremos também uma pontuação, o Planning Poker, para definir a dificuldade de desenvolvimento de uma User Story, assim mensurando bem os esforços e o tempo gasto durante a Sprint.
 
 
 ### 6.3 MATRIZ DE COMUNICAÇÃO
@@ -115,9 +115,9 @@
 
 ### 6.4 ESCALABILIDADE DO PROJETO
 
-&emsp;&emsp;A necessidade de mudança e resolução de problemas é uma característica inerente ao desenvolvimento de software.
+A necessidade de mudança e resolução de problemas é uma característica inerente ao desenvolvimento de software.
 
-&emsp;&emsp;Caso ocorra algum problema no desenvolvimento o desenvolvedor deve tentar saná-lo por si só, caso não consiga, ficará a cargo do DevOps resolver o problema e garantir a continuidade do projeto. Se o problema persistir e estiver relacionado a integração do time, o Scrum Master será acionado e tentará solucionar o problema. Caso seja um problema de requisitos ou visão do produto, será acionado o Product Owner para reavaliar os requisitos e talvez fazer uma nova reunião com o cliente. Mas caso o problema seja em relação à matéria ou orientação de projeto, o professor será acionado como última instância.
+Caso ocorra algum problema no desenvolvimento o desenvolvedor deve tentar saná-lo por si só, caso não consiga, ficará a cargo do DevOps resolver o problema e garantir a continuidade do projeto. Se o problema persistir e estiver relacionado a integração do time, o Scrum Master será acionado e tentará solucionar o problema. Caso seja um problema de requisitos ou visão do produto, será acionado o Product Owner para reavaliar os requisitos e talvez fazer uma nova reunião com o cliente. Mas caso o problema seja em relação à matéria ou orientação de projeto, o professor será acionado como última instância.
 
 
 ### 6.5 GERENCIAMENTO DE RISCO
@@ -149,9 +149,9 @@ Ter bem definido os critérios de replanejamento assegurará uma boa entrega do 
 
 ## 7. LIÇÕES APRENDIDAS
 
-&emsp;&emsp;A falta de comunicação devido a poucas reuniões nos levaram a ter visões diferentes do projeto, com o passar disciplina, aumentar a frequência das reuniões e, principalmente, fazer uso do Lean inception, conseguimos alinhar bem melhor as ideias.
-&emsp;&emsp;Além disso, os conhecimentos relacionados a requisitos foram sendo solidificados e lapidados, fazendo com que cada vez mais tivéssemos uma ideia clara do projeto, conseguindo assim, levantar de forma bem mais clara e coerente os requisitos para o desenvolvimento das entregas de cada unidade e do produto final.
-&emsp;&emsp;Todo o fluxo de trabalho implementado pelo SAFe auxiliou e muito para o desenvolvimento robusto, descritivo e detalhado do que foi escolhido para ser implementado.
+A falta de comunicação devido a poucas reuniões nos levaram a ter visões diferentes do projeto, com o passar disciplina, aumentar a frequência das reuniões e, principalmente, fazer uso do Lean inception, conseguimos alinhar bem melhor as ideias.
+Além disso, os conhecimentos relacionados a requisitos foram sendo solidificados e lapidados, fazendo com que cada vez mais tivéssemos uma ideia clara do projeto, conseguindo assim, levantar de forma bem mais clara e coerente os requisitos para o desenvolvimento das entregas de cada unidade e do produto final.
+Todo o fluxo de trabalho implementado pelo SAFe auxiliou e muito para o desenvolvimento robusto, descritivo e detalhado do que foi escolhido para ser implementado.
 
 
 ## 8. REFERÊNCIAS 
