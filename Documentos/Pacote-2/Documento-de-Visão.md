@@ -4,9 +4,10 @@
 
 |**Versão**|**Data**|**Descrição**|**Nome**|
 | - | - | - | - |
-|1.0|18/02/2021|Criação do documento|Equipe Void|
-|2.0|10/03/2021|Revisão do documento perante ao feedback do professor|Equipe Void|
+|1.0|18/04/2021|Criação do documento|Equipe Void|
+|2.0|21/04/2021|Revisão do documento perante ao feedback do professor|Equipe Void|
 |3.0|26/04/2021|Atualização do Documento de Visão perante a nova metodologia|Bruno Félix|
+|3.0|12/05/2021|Revisão Geral|Equipe Void|
 
 
 ## 1. Introdução 
@@ -196,11 +197,11 @@
 
 ## 10. Lições aprendidas
 
-&emsp;&emsp;A falta de comunicação devido a poucas reuniões nos levaram a ter visões diferentes do projeto, com o passar disciplina, aumentar a frequência das reuniões e, principalmente, fazer uso do Lean inception, conseguimos alinhar bem melhor as ideias. Além disso, os conhecimentos relacionados a requisitos foram sendo solidificados e lapidados, fazendo com que cada vez mais tivéssemos uma ideia clara do projeto, conseguindo assim, levantar de forma bem mais clara e coerente os requisitos para o desenvolvimento das entregas de cada unidade e do produto final.
+&emsp;&emsp; Sobre a metodologia de ensino do processo unificado, foi de bom proveito para todos do grupo. Pelo fato do processoo unificado ser baseado em UML, utilizamos para padronizar nossos documentos e entregas, e foi muito importante para nosso aprendizado na matéria de requisitos em geral. Sabendo disso, hoje temos uma melhor perspectiva sobre o trabalho, comparado com o início, e isso foi trazido também pelo fato de estar sendo vivenciada a metodolodia do processo unificado. Diferentemente do ágil, o processo unificado nos trouxe um outro olhar na ação de levantamento de requisitos.
 
 
 ## 11. Referências 
 
-> - Schwaber, K. & Beedle, M. (2002). Agile software development with Scrum. New Jersey: Prentice Hall.
-> - Ambler, S. (2004). Modelagem Ágil: práticas eficazes para a Programação eXtrema e o Processo Unificado. Porto Alegre: Bookman.
-> - Beck, K. (2004). Programação eXtrema (XP) explicada: acolha as mudanças. Porto Alegre: Bookman.
+> - Wazlawick, Raul Sidnei. Engenharia de software: conceitos e práticas. Rio de Janeiro: Elsevier, 2013.
+> - Kendall Scott – O Processo Unificado Explicado, Bookman, 2003.
+> - LARMAN, CRAIG – Utilizando UML e Padrões, 3a edição, Bookman, 2007.
