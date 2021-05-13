@@ -202,6 +202,6 @@
 
 ## 11. Referências 
 
-> - Wazlawick, Raul Sidnei. Engenharia de software: conceitos e práticas. Rio de Janeiro: Elsevier, 2013.
-> - Kendall Scott – O Processo Unificado Explicado, Bookman, 2003.
-> - LARMAN, CRAIG – Utilizando UML e Padrões, 3a edição, Bookman, 2007.
+* Wazlawick, Raul Sidnei. Engenharia de software: conceitos e práticas. Rio de Janeiro: Elsevier, 2013.
+* Kendall Scott – O Processo Unificado Explicado, Bookman, 2003.
+* LARMAN, CRAIG – Utilizando UML e Padrões, 3a edição, Bookman, 2007.
