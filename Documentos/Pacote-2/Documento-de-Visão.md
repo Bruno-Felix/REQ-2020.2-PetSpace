@@ -63,37 +63,45 @@
 
 |Requisito|Nome| Descrição |
 | - | - | - |
-|Req. 1|Autenticação e conta| |
-|Req. 2|Busca e filtro de elementos| |
-|Req. 3|Compra de produtos e serviços| |
-|Req. 4|Avaliar elementos| |
-|Req. 5|Fazer adoção| |
-|Req. 6|Visualizar detalhes| |
-|Req. 7|Cadastro, gerência e acompanhamento de elementos| |
-|Req. 8|Listagem de elementos| |
+|Req. 1| Conta | Cliente pode criar e editar sua conta na loja|
+|Req. 2| Autenticação| Verificação de dados no sistema |
+|Req. 3| Busca | Pesquisa de protudos ou serviços no sitema por nome ou parte do nome |
+|Req. 4| Listagem | Listar produtos ou serviços |
+|Req. 5| Filtro| Listar produtos ou serviços por categoria|
+|Req. 6| Compra | O cliente pode comprar um produto e/ou serviço na loja |
+|Req. 7| Avaliação| O cliente tem possibilidade de avaliar um produto ou/e serviço|
+|Req. 8| Adoção | O cliente pode contactar a uma instituição |
+|Req. 9| Detalhes|É possivel visualizar detalhes dos produtos e serviços, sendo cliente  |
+|Req. 10| Cadastro | O administrador pode cadastrar um produto, serviço e instuição no sistema |
+|Req. 11| Edição | O administrador pode editar um produto, serviço e/ou instuição cadastrado no sistema |
+|Req. 12| Exclusão | O administrador pode excluir um produto, serviço e/ou instuição cadastrado no sistema |
+|Req. 13| Compartilhamento| O Cliente consegue emcaminhar qualquer produto, serviço e/ou instituição de adoção|
+
 
 
 ### 5.2 Casos de uso
 
 | ID |Requisito|Caso de Uso|Atores|
 |-| - | - | - |
-| CS1 | Req. 2, Req. 3, Req. 6, Req. 8|Comprar Produto |Cliente|
-| CS2 | Req. 2, Req. 3, Req. 6, Req. 8|Comprar Serviço |Cliente|
-| CS3 | Req. 1, Req. 3|Finalizar Compra |Cliente|
-| CS4 | Req. 1, Req. 2, Req. 5, Req. 6, Req. 8|Adotar Pet|Cliente|
-| CS5 | Req. 1|Fazer Login|Cliente|
+| CS1 | Req. 2,Req. 3, Req. 4, Req. 5, Req.  6, Req. 9 |Comprar Produto |Cliente|
+| CS2 | Req. 3, Req. 3, Req. 4, Req. 5, Req. 6, Req. 9|Comprar Serviço |Cliente|
+| CS3 | Req. 3, Req. 6|Finalizar Compra |Cliente|
+| CS4 | Req. 8 |Adotar Pet|Cliente|
+| CS5 | Req. 2|Fazer Login|Cliente|
 | CS6 | Req. 1|Criar Conta|Cliente|
-| CS7 | Req. 1, Req. 4|Avaliar Produto |Cliente|
-| CS8 | Req. 1, Req. 4|Avaliar Serviço |Cliente|
-| CS9 | Req. 1, Req. 7|Cadastrar Produto|Administrador|
-| CS10 | Req. 1, Req. 7|Cadastrar Serviço|Administrador|
-| CS11 | Req. 1, Req. 7|Cadastrar Instituição de Adoção de Pet|Administrador|
-| CS12 | Req. 1, Req. 7|Editar Produto|Administrador|
-| CS13 | Req. 1, Req. 7|Editar Serviço|Administrador|
-| CS14 | Req. 1, Req. 7|Editar Instituição de Adoção de Pet|Administrador|
-| CS15 | Req. 1, Req. 7|Excluir Produto|Administrador|
-| CS16 | Req. 1, Req. 7|Excluir Serviço|Administrador|
-| CS17 | Req. 1, Req. 7|Excluir Instituição de Adoção de Pet|Administrador|
+| CS7 | Req. 2, Req. 7|Avaliar Produto |Cliente|
+| CS8 | Req. 2, Req. 7|Avaliar Serviço |Cliente|
+| CS9 | Req. 2, Req. 7|Fazer Comentário da Instituição de Adoção de Pet |Cliente|
+| CS10| Req. 13 |Compartilhar em Redes Sociais| Cliente |    
+| CS11 | Req. 10 |Cadastrar Produto|Administrador|
+| CS12 | Req. 10 |Cadastrar Serviço|Administrador|
+| CS13 | Req. 10 |Cadastrar Instituição de Adoção de Pet|Administrador|
+| CS14 | Req. 11 |Editar Produto|Administrador|
+| CS15 | Req. 11 |Editar Serviço|Administrador|
+| CS16 | Req. 11 |Editar Instituição de Adoção de Pet|Administrador|
+| CS17 | Req. 12 |Excluir Produto|Administrador|
+| CS18 | Req. 12 |Excluir Serviço|Administrador|
+| CS19 | Req. 12 |Excluir Instituição de Adoção de Pet|Administrador|
 
 ### 5.3 Mínimo produto viável (MVP)
 
@@ -177,11 +185,11 @@
 
 ### 9.5 Critérios de replanejamento
 
-&emsp;&emsp;Ter bem definido os critérios de replanejamento assegurará uma boa entrega do produto, levantamos 3 que serão cruciais no projeto.
+Ter bem definido os critérios de replanejamento assegurará uma boa entrega do produto, levantamos 3 que serão cruciais no projeto.
 
 - Mudança de visão do projeto: Ao debater sobre uma funcionalidade, ou conversar com o cliente e entender melhor suas necessidades, podem haver novas perspectivas sobre o que o projeto deveria ser, havendo assim, a necessidade de replanejar e realinhar a visão do projeto;
 - Mudança de escopo do produto: Baseado numa mudança de visão, ou por um curto espaço de tempo hábil para o desenvolvimento, talvez se mostre necessário replanejar que será entregue;
-- Poucas entregas: Ao final de cada sprint será feita uma reunião de revisão, pode-se notar uma diferença grande entre o planejado e o entregue. Isso pede que no planejamento da próxima Sprint seja levantado o que deu errado e o que pode ser feito para que as entregas da Sprint passadas sejam feitas e que as novas sejam bem desenvolvidas, dentro do prazo e do planejamento.
+- Poucas entregas: Ao final de cada Inspeção será feita uma reunião de revisão, pode-se notar uma diferença grande entre o planejado e o entregue. Isso pede que no próximo planejamento seja levantado o que deu errado e o que pode ser feito para que as entregas passadas sejam feitas e que as novas sejam bem desenvolvidas, dentro do prazo e do planejamento.
 
 
 ## 10. Lições aprendidas
