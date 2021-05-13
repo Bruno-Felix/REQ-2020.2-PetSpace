@@ -5,7 +5,7 @@
 |Req. 1|Autenticação e conta|
 |Req. 2|Busca e filtro de elementos|
 |Req. 3|Compra de produtos e serviços|
-|Req. 4|Avaliar elementos|
+|Req. 4|Avaliar elementos e compartilhar|
 |Req. 5|Fazer adoção de Pet|
 |Req. 6|Visualizar detalhes|
 |Req. 7|Cadastro, gerência e acompanhamento de elementos|
@@ -24,12 +24,14 @@
 | CS6 | Req. 1|Criar Conta|Cliente|
 | CS7 | Req. 1, Req. 4|Avaliar Produto |Cliente|
 | CS8 | Req. 1, Req. 4|Avaliar Serviço |Cliente|
-| CS9 | Req. 1, Req. 7|Cadastrar Produto|Administrador|
-| CS10 | Req. 1, Req. 7|Cadastrar Serviço|Administrador|
-| CS11 | Req. 1, Req. 7|Cadastrar Instituição de Adoção de Pet|Administrador|
-| CS12 | Req. 1, Req. 7|Editar Produto|Administrador|
-| CS13 | Req. 1, Req. 7|Editar Serviço|Administrador|
-| CS14 | Req. 1, Req. 7|Editar Instituição de Adoção de Pet|Administrador|
-| CS15 | Req. 1, Req. 7|Excluir Produto|Administrador|
-| CS16 | Req. 1, Req. 7|Excluir Serviço|Administrador|
-| CS17 | Req. 1, Req. 7|Excluir Instituição de Adoção de Pet|Administrador|
+| CS9 | Req. 1, Req. 4|Avaliar Instituição de Adoção de Pet |Cliente|
+| CS10 | Req. 1, Req. 4|Compartilhar em Redes Sociais |Cliente|
+| CS11 | Req. 1, Req. 7|Cadastrar Produto|Administrador|
+| CS12 | Req. 1, Req. 7|Cadastrar Serviço|Administrador|
+| CS13 | Req. 1, Req. 7|Cadastrar Instituição de Adoção de Pet|Administrador|
+| CS14 | Req. 1, Req. 7|Editar Produto|Administrador|
+| CS15 | Req. 1, Req. 7|Editar Serviço|Administrador|
+| CS16 | Req. 1, Req. 7|Editar Instituição de Adoção de Pet|Administrador|
+| CS17 | Req. 1, Req. 7|Excluir Produto|Administrador|
+| CS18 | Req. 1, Req. 7|Excluir Serviço|Administrador|
+| CS20 | Req. 1, Req. 7|Excluir Instituição de Adoção de Pet|Administrador|
