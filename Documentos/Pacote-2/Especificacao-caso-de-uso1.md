@@ -13,17 +13,17 @@ Esse caso de uso descreve os possiveis fluxos de atividades em "Avaliar um Produ
 
 * 4.1 Este caso de uso é iniciado quando o Cliente deseja avaliar um produto;
 * 4.2 Cliente seleciona um produto ofertado dentro da plataforma;
-* 4.3 Cliente clica em avaliações daquele produto selecionado;(FAE-01)
-* 4.4 Cliente escolhe uma classificação de 1 a 5;(FEE-01)(RN-01)
-* 4.5 Cliente faz uma avaliação sobre o produto sobre o produto;(FEE-02)
-* 4.6 Cliente clica em enviar a avaliação;(RN-02)
-* 4.7 Sistema mostra a avaliação feita com o status de "A sua avaliação está aguardando aprovação";(RN-02)
+* 4.3 Cliente clica em avaliações daquele produto selecionado;**(FAE-01)**
+* 4.4 Cliente escolhe uma classificação de 1 a 5;**(FEE-01)(RN-01)**
+* 4.5 Cliente faz uma avaliação sobre o produto sobre o produto;**(FEE-02)**
+* 4.6 Cliente clica em enviar a avaliação;**(RN-02)**
+* 4.7 Sistema mostra a avaliação feita com o status de "A sua avaliação está aguardando aprovação";**(RN-02)**
 * 4.8 O caso de uso é encerrado.
 
 ## 5. Fluxos Alternativos de Eventos (FAE)
 * 5.1 **FAE-01: Cliente não logado:** No passo 4.3 (FBE) quando o Cliente clica em avaliações daquele produto selecionado mas não está logado no site.
-    * 5.1.1 Cliente insere seu nome e seu email;(FEE-02)(FEE-03)(FEE-04)(FEE-05)(RN-04)
-    * 5.1.2 Cliente seleciona, ou não, a caixa de seleção de "Salvar meus dados neste navegador para a próxima vez que eu comentar";(RN-03)
+    * 5.1.1 Cliente insere seu nome e seu email;**(FEE-02)(FEE-03)(FEE-04)(FEE-05)(RN-04)**
+    * 5.1.2 Cliente seleciona, ou não, a caixa de seleção de "Salvar meus dados neste navegador para a próxima vez que eu comentar";**(RN-03)**
     * 5.1.3 O caso de uso retorna ao passo 4.4 do FBE.
 
 ## 6. Fluxo de Execção de Eventos (FEE)
