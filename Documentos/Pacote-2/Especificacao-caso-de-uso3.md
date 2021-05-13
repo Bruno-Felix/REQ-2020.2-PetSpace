@@ -5,7 +5,7 @@
    O presente caso de uso descreve o fluxo de atividades e execução do serviço de adoção. O serviço de adoção consiste na execução de uma comunicação de um usuário do site PetSpace com uma instituição de adoção, tal como a UIPA (União Internacional Protetora dos Animais).
 ## 2- Atores
    * Administrador 
-   * Usuário
+   * Cliente
     
 ## 3- Condições Prévias
    * O usuário deve desejar adotar um novo pet.
