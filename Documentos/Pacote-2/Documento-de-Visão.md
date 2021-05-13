@@ -66,7 +66,7 @@
 | - | - | - |
 |Req. 1| Conta | Cliente pode criar e editar sua conta na loja|
 |Req. 2| Autenticação| Verificação de dados no sistema |
-|Req. 3| Busca | Pesquisa de produtos ou serviços no sistema por nome ou parte do nome |
+|Req. 3| Busca | Pesquisa de protudos ou serviços no sitema por nome ou parte do nome |
 |Req. 4| Listagem | Listar produtos ou serviços |
 |Req. 5| Filtro| Listar produtos ou serviços por categoria|
 |Req. 6| Compra | O cliente pode comprar um produto e/ou serviço na loja |
@@ -76,7 +76,7 @@
 |Req. 10| Cadastro | O administrador pode cadastrar um produto, serviço e instuição no sistema |
 |Req. 11| Edição | O administrador pode editar um produto, serviço e/ou instuição cadastrado no sistema |
 |Req. 12| Exclusão | O administrador pode excluir um produto, serviço e/ou instuição cadastrado no sistema |
-|Req. 13| Compartilhamento| O Cliente consegue encaminhar qualquer produto, serviço e/ou instituição de adoção|
+|Req. 13| Compartilhamento| O Cliente consegue emcaminhar qualquer produto, serviço e/ou instituição de adoção|
 
 
 
@@ -146,12 +146,18 @@
 
 |**Reunião**|**Data**|**Descrição**|
 | - | - | - |
+<<<<<<< HEAD
 |Reunião 4|06/abr a 22/abr|Organização estrutural dos requisitos Definição do Produto|
 |Reunião 5|27/abr a 13/mai|Definição do Escopo da Iteração Gerenciamento dos Requisitos|
+=======
+| Reunião 4|06/abr a 22/abr|Organização estrutural dos requisitos Definição do Produto|
+| Reunião 5|27/abr a 13/mai|Definição do Escopo da Iteração Gerenciamento dos Requisitos|
+>>>>>>> b13dcaf (Subindo entregas pacote 1 e 2)
 
 
 ### 9.2 Processos de desenvolvimento e mensuração
 
+<<<<<<< HEAD
 <p style="text-align: justify;">&emsp;&emsp; 
 &emsp;&emsp;O processo de desenvolvimento da aplicação será conduzido por meio das etapas do Processo Unificado, orientando a Casos de Uso. Na primeira fase que é a concepção: o objetivo desta fase é levantar o escopo do projeto, uma visão primária dos problemas. Já na fase de Elaboração, os requisitos são especificados em detalhes, baseando-se nos seus riscos e valores arquiteturais. Na fase de Construção os elementos serão implementados. For fim na fase de Transição é onde acontece testes finais e a implantação.
 </p>
@@ -159,32 +165,39 @@
 <p style="text-align: justify;">&emsp;&emsp; 
 &emsp;&emsp;Nosso processo de mensuração, no planejamento do Projeto, será feito por parte do processo de Inspeção. Através do planejamento, apresentação, preparação, reunião, correção e acompanhamento, podesse verificar o produto de trabalho e encontrar os erros para serem corrigidos.
 </p>
+=======
+&emsp;&emsp;O processo de desenvolvimento da aplicação será conduzido por meio do uso do Processo Unificado. O projeto será acompanhado por meio de reuniões semanais, para o planejamento da sprint e revisão da sprint anterior. Além disso, serão realizadas reuniões rápidas, nos moldes de dailys, da metodologia SCRUM, porém realizadas 3 vezes por semana, para rastrear eventuais impedimentos e ter uma boa perspectiva do que está sendo feito. As datas finais das fases do projeto serão as bases para as Releases do produto.
+
+&emsp;&emsp;Nosso processo de mensuração, no planejamento da Sprint, será baseado nos Burndown report e Velocity tracking, do recurso ZenHub da plataforma GitHub. Usaremos também uma pontuação, o Planning Poker, para definir a dificuldade de desenvolvimento de uma User Story, assim mensurando bem os esforços e o tempo gasto durante a Sprint.
+
+>>>>>>> b13dcaf (Subindo entregas pacote 1 e 2)
 
 ### 9.3 Matriz de comunicação
 
 |**Comunicação**|**Proposta**|**Meio**|**Frequência**|**Participantes**|
 | - | - | - | - | - |
 | Reunião de iniciação | Definir prazos e objetivos | Vídeo-chamada através do Microsoft Teams | Ao início de cada unidade | Time de desenvolvimento e professor |
-| Reunião do time de desenvolvimento | Comunicar o andamento do desenvolvimento | Vídeo-chamada através do Jitsi Meet | Semanalmente | Time de desenvolvimento |
-| Reunião de relatório do projeto | Analisar os resultados do projeto | Vídeo-chamada através do Jitsi Meet | Mensalmente | Time de desenvolvimento |
-| Reunião de problemas técnicos | Comunicar algum impedimento ou problema técnico | Vídeo-chamada através do Jitsi Meet | Quando necessário | Time de desenvolvimento |
+| Reunião do time de desenvolvimento | Comunicar o andamento do desenvolvimento | Vídeo-chamada através do Jitsu | Semanalmente | Time de desenvolvimento |
+| Reunião de relatório do projeto | Analisar os resultados do projeto | Vídeo-chamada através do Jitsu | Mensalmente | Time de desenvolvimento |
+| Reunião de problemas técnicos | Comunicar algum impedimento ou problema técnico | Vídeo-chamada através do Jitsu | Quando necessário | Time de desenvolvimento |
 | Reunião de encerramento de unidade | Apresentar os resultados desenvolvidos e receber o feedback | Vídeo-chamada através do Microsoft-teams | Ao fim de cada unidade | Time de desenvolvimento e professor |
 
 ### 9.4 Gerenciamento de risco
 
 |**ID**|**Descrição**|**Ação**|
 | - | - | - |
-|RS01|Dificuldades da equipe com as tecnologias inseridas|Realização uma reunião técnica durante o desenvolvimento do projeto para a melhor performance|
+|RS01|Dificuldades da equipe com as tecnologias inseridas|Realização de dojô técnico durante o desenvolvimento do projeto para a melhor performance|
 |RS02|Erros durante o planejamento das atividades|Utilização de ferramentas de fluxo de trabalho para planejar|
-|RS03|Má elicitação dos requisitos|Uso de estratégias de elicitação de requisitos usadas no Processo Unificado|
-|RS04|Falta de alinhamento entre a equipe|Encontros através de reuniões|
-|RS05|Conflito com outras atividades acadêmicas|Uso de planejamento de horário através de cada sprint, para o melhor aproveitamento das horas para a matéria|
-|RS06|Desistência da disciplina|Incentivar a participação dos membros e a união do time. Redistribuir tarefas e refazer parte do planejamento do projeto|
-|RS07|Problemas pessoais ou de saúde relacionados a pandemia da COVID-19|Seguir as recomendações de prevenção da Organização Mundial da Saúde e remanejamento das atividades e apoio ao(s) membro(s) afetado(s)|
-|RS08|Problemas com a estação de trabalho|Remanejamento das atividades e revisão do cronograma|
-|RS09|Alteração do escopo|Refinar constantemente os requisitos e manter as funcionalidades atualizadas e redefinir o escopo e redistribuir tarefas|
-|RS10|Divergência de horários entre membros da equipe|Planejar os horários e reuniões baseado na planilha de horários|
-|RS11|Falta de interação entre a equipe|Chamar os membros para alguma atividade divertida fora do contexto da disciplina|
+|RS03|Atividades não entregues na Sprint|Revisar tarefas e metas no planejamento da Sprint|
+|RS04|Má elicitação dos requisitos|Uso de estratégias de elicitação de requisitos que já estão consolidados, como rich picture e brainstorming|
+|RS05|Falta de alinhamento entre a equipe|Encontros através de dailies e documentação dos ocorridos em uma plataforma de compartilhamento como Github|
+|RS06|Conflito com outras atividades acadêmicas|Uso de planejamento de horário através de cada sprint, para o melhor aproveitamento das horas para a matéria|
+|RS07|Desistência da disciplina|Incentivar a participação dos membros e a união do time. Redistribuir tarefas e refazer parte do planejamento do projeto|
+|RS08|Problemas pessoais ou de saúde relacionados a pandemia da COVID-19|Seguir as recomendações de prevenção da Organização Mundial da Saúde e remanejamento das atividades e apoio ao(s) membro(s) afetado(s)|
+|RS09|Problemas com a estação de trabalho|Remanejamento das atividades e revisão do cronograma|
+|RS10|Alteração do escopo|Refinar constantemente os requisitos e manter as funcionalidades atualizadas e redefinir o escopo e redistribuir tarefas|
+|RS11|Divergência de horários entre membros da equipe|Planejar os horários e reuniões baseado na planilha de horários|
+|RS12|Falta de interação entre a equipe|Chamar os membros para alguma atividade divertida fora do contexto da disciplina|
 
 
 ### 9.5 Critérios de replanejamento
@@ -198,9 +211,13 @@ Ter bem definido os critérios de replanejamento assegurará uma boa entrega do 
 
 ## 10. Lições aprendidas
 
+<<<<<<< HEAD
 <p style="text-align: justify;">&emsp;&emsp; 
 &emsp;&emsp; Sobre a metodologia de ensino do processo unificado, foi de bom proveito para todos do grupo. Pelo fato do processo unificado ser baseado em UML, utilizamos para padronizar nossos documentos e entregas, e foi muito importante para nosso aprendizado na matéria de requisitos em geral. Sabendo disso, hoje temos uma melhor perspectiva sobre o trabalho, comparado com o início, e isso foi trazido também pelo fato de estar sendo vivenciada a metodologia do processo unificado. Diferentemente do ágil, o processo unificado nos trouxe um outro olhar na ação de levantamento de requisitos.
 </p>
+=======
+&emsp;&emsp; Sobre a metodologia de ensino do processo unificado, foi de bom proveito para todos do grupo. Pelo fato do processoo unificado ser baseado em UML, utilizamos para padronizar nossos documentos e entregas, e foi muito importante para nosso aprendizado na matéria de requisitos em geral. Sabendo disso, hoje temos uma melhor perspectiva sobre o trabalho, comparado com o início, e isso foi trazido também pelo fato de estar sendo vivenciada a metodolodia do processo unificado. Diferentemente do ágil, o processo unificado nos trouxe um outro olhar na ação de levantamento de requisitos.
+>>>>>>> b13dcaf (Subindo entregas pacote 1 e 2)
 
 
 ## 11. Referências 
