@@ -27,10 +27,10 @@
 Não se aplica.
 
 ## 8- Pós-condições
-Não se aplica.
+   * Não se aplica.
 
 ## 9- Pontos de Extensão
-Não se aplica.
+   * Não se aplica.
 
 
 
