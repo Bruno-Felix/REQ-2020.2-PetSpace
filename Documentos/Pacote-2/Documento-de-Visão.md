@@ -160,7 +160,7 @@
 
 |**Comunicação**|**Proposta**|**Meio**|**Frequência**|**Participantes**|
 | - | - | - | - | - |
-| Reunião de iniciação | Definir prazos e objetivos | Video-chamada através do Microsoft Teams | Ao inicio de cada unidade | Time de desenvolvimento e professor |
+| Reunião de iniciação | Definir prazos e objetivos | Vídeo-chamada através do Microsoft Teams | Ao início de cada unidade | Time de desenvolvimento e professor |
 | Reunião do time de desenvolvimento | Comunicar o andamento do desenvolvimento | Vídeo-chamada através do Jitsu | Semanalmente | Time de desenvolvimento |
 | Reunião de relatório do projeto | Analisar os resultados do projeto | Vídeo-chamada através do Jitsu | Mensalmente | Time de desenvolvimento |
 | Reunião de problemas técnicos | Comunicar algum impedimento ou problema técnico | Vídeo-chamada através do Jitsu | Quando necessário | Time de desenvolvimento |
