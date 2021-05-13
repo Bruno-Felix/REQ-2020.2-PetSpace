@@ -143,10 +143,10 @@
 
 ### 9.1 Planejamento das fases e iterações do projeto
 
-|**Sprint**|**Data**|**Descrição**|
+|**Reunião**|**Data**|**Descrição**|
 | - | - | - |
-|Sprint 4|06/abr a 22/abr|Organização estrutural dos requisitos Definição do Produto|
-|Sprint 5|27/abr a 13/mai|Definição do Escopo da Iteração Gerenciamento dos Requisitos|
+|Reunião 4|06/abr a 22/abr|Organização estrutural dos requisitos Definição do Produto|
+|Reunião 5|27/abr a 13/mai|Definição do Escopo da Iteração Gerenciamento dos Requisitos|
 
 
 ### 9.2 Processos de desenvolvimento e mensuração
