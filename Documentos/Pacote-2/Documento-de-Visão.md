@@ -129,7 +129,6 @@
 |phpMyAdmin|É um aplicativo web livre e de código aberto desenvolvido em PHP para administração do MySQL pela Internet.|
 |Docker|É um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres.|
 |Heroku|É uma plataforma em nuvem como um serviço que suporta várias linguagens de programação.|
-| - | :- |
 |Travis CI|É um serviço de integração contínua hospedado usado para construir e testar projetos de software hospedados no GitHub e Bitbucket.|
 |Dockerhub|É um repositório público onde empresas podem publicar suas soluções em forma de imagem|
 |GitHub|É uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.|
