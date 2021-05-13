@@ -109,7 +109,7 @@ Nosso processo de mensuração, no planejamento da Sprint, será baseado nos Bur
 |**Descrição**|**Área/ Envolvidas**|**Periodicidade**|**Produtos Gerados**|
 | - | - | - | - |
 |Revisar todas as tarefas feitas na semana anterior; Planejar as tarefas para a próxima semana.|Equipe de Desenvolvimento|Baseado no fim das Sprints do tópico 6.1| Planning da Sprint seguinte;Revisão da Sprint anterior; Ata da Reunião.|
-|Comunicar o que está feito, inpecílicios, e o que planeja ainda fazer|Equipe de Desenvolvimento|Segunda, Quarta e Sexta|Ata da Reunião|
+|Comunicar o que está feito, empecilhos, e o que planeja ainda fazer|Equipe de Desenvolvimento|Segunda, Quarta e Sexta|Ata da Reunião|
 |Receber feedbacks das entregas do projeto|Equipe de Desenvolvimento e o Professor|Ao final de cada Sprint| Feedback|
 
 
