@@ -161,9 +161,9 @@
 |**Comunicação**|**Proposta**|**Meio**|**Frequência**|**Participantes**|
 | - | - | - | - | - |
 | Reunião de iniciação | Definir prazos e objetivos | Vídeo-chamada através do Microsoft Teams | Ao início de cada unidade | Time de desenvolvimento e professor |
-| Reunião do time de desenvolvimento | Comunicar o andamento do desenvolvimento | Vídeo-chamada através do Jitsu | Semanalmente | Time de desenvolvimento |
-| Reunião de relatório do projeto | Analisar os resultados do projeto | Vídeo-chamada através do Jitsu | Mensalmente | Time de desenvolvimento |
-| Reunião de problemas técnicos | Comunicar algum impedimento ou problema técnico | Vídeo-chamada através do Jitsu | Quando necessário | Time de desenvolvimento |
+| Reunião do time de desenvolvimento | Comunicar o andamento do desenvolvimento | Vídeo-chamada através do Jitsi Meet | Semanalmente | Time de desenvolvimento |
+| Reunião de relatório do projeto | Analisar os resultados do projeto | Vídeo-chamada através do Jitsi Meet | Mensalmente | Time de desenvolvimento |
+| Reunião de problemas técnicos | Comunicar algum impedimento ou problema técnico | Vídeo-chamada através do Jitsi Meet | Quando necessário | Time de desenvolvimento |
 | Reunião de encerramento de unidade | Apresentar os resultados desenvolvidos e receber o feedback | Vídeo-chamada através do Microsoft-teams | Ao fim de cada unidade | Time de desenvolvimento e professor |
 
 ### 9.4 Gerenciamento de risco
