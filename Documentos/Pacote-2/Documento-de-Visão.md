@@ -114,7 +114,7 @@
 |**Papel**|**Atribuição**|**Responsável**|
 | - | - | - |
 |Professor|Orientar e resolver problemas em última instância.|George|
-|Time de Desenvolvimento|É a equipe de profissionais responsável por transformar o Product Backlog em um produto funcional.|Bruno Félix, Daniel Primo, Francisco Ferreira e Pedro Henrique|
+|Time de Desenvolvimento|É a equipe de profissionais responsável por transformar os Casos de Uso em um produto funcional.|Bruno Félix, Daniel Primo, Francisco Ferreira e Pedro Henrique|
 
 
 ## 8. Ferramentas, ambiente e infraestrutura
@@ -157,14 +157,7 @@
 |Receber feedbacks das entregas do projeto|Equipe de Desenvolvimento e o Professor|Ao final de cada Sprint| Feedback|
 
 
-### 9.4 Escalabilidade do projeto
-
-&emsp;&emsp;A necessidade de mudança e resolução de problemas é uma característica inerente ao desenvolvimento de software.
-
-&emsp;&emsp;Caso ocorra algum problema no desenvolvimento o desenvolvedor deve tentar saná-lo por si só, caso não consiga, ficará a cargo do DevOps resolver o problema e garantir a continuidade do projeto. Se o problema persistir e estiver relacionado a integração do time, o Scrum Master será acionado e tentará solucionar o problema. Caso seja um problema de requisitos ou visão do produto, será acionado o Product Owner para reavaliar os requisitos e talvez fazer uma nova reunião com o cliente. Mas caso o problema seja em relação à matéria ou orientação de projeto, o professor será acionado como última instância.
-
-
-### 9.5 Gerenciamento de risco
+### 9.4 Gerenciamento de risco
 
 |**ID**|**Descrição**|**Ação**|
 | - | - | - |
@@ -182,7 +175,7 @@
 |RS12|Falta de interação entre a equipe|Chamar os membros para alguma atividade divertida fora do contexto da disciplina|
 
 
-### 9.6 Critérios de replanejamento
+### 9.5 Critérios de replanejamento
 
 &emsp;&emsp;Ter bem definido os critérios de replanejamento assegurará uma boa entrega do produto, levantamos 3 que serão cruciais no projeto.
 
