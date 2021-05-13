@@ -7,7 +7,7 @@
 |1.0|18/04/2021|Criação do documento|Equipe Void|
 |2.0|21/04/2021|Revisão do documento perante ao feedback do professor|Equipe Void|
 |3.0|26/04/2021|Atualização do Documento de Visão perante a nova metodologia|Bruno Félix|
-|3.0|12/05/2021|Revisão Geral|Equipe Void|
+|4.0|12/05/2021|Revisão Geral|Equipe Void|
 
 
 ## 1. Introdução 
