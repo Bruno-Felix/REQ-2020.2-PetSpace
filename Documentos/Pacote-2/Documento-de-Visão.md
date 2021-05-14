@@ -21,8 +21,9 @@
 |**Uma solução de sucesso seria**|Um e-commerce para a venda de produtos, serviços e adoção de pets|
 
 ### 1.2 Objetivo do projeto
-
+<p style="text-align: justify;">
 &emsp;&emsp;Criar um e-commerce voltados às necessidades e comodidade dos donos de pets. No meio da pandemia da COVID-19, vários aspectos foram afetados, um deles foi a livre circulação, tornando a compra pela internet, além de uma medida de segurança, prático. Com isso percebemos a oportunidade de criar uma loja virtual para que pessoas consigam comprar produtos e serviços focados para seus pets.
+</p>
 
 
 ## 2. Stakeholders
@@ -151,10 +152,13 @@
 
 ### 9.2 Processos de desenvolvimento e mensuração
 
+<p style="text-align: justify;">&emsp;&emsp; 
 &emsp;&emsp;O processo de desenvolvimento da aplicação será conduzido por meio das etapas do Processo Unificado, orientando a Casos de Uso. Na primeira fase que é a concepção: o objetivo desta fase é levantar o escopo do projeto, uma visão primária dos problemas. Já na fase de Elaboração, os requisitos são especificados em detalhes, baseando-se nos seus riscos e valores arquiteturais. Na fase de Construção os elementos serão implementados. For fim na fase de Transição é onde acontece testes finais e a implantação.
+</p>
 
+<p style="text-align: justify;">&emsp;&emsp; 
 &emsp;&emsp;Nosso processo de mensuração, no planejamento do Projeto, será feito por parte do processo de Inspeção. Através do planejamento, apresentação, preparação, reunião, correção e acompanhamento, podesse verificar o produto de trabalho e encontrar os erros para serem corrigidos.
-
+</p>
 
 ### 9.3 Matriz de comunicação
 
@@ -194,7 +198,9 @@ Ter bem definido os critérios de replanejamento assegurará uma boa entrega do 
 
 ## 10. Lições aprendidas
 
+<p style="text-align: justify;">&emsp;&emsp; 
 &emsp;&emsp; Sobre a metodologia de ensino do processo unificado, foi de bom proveito para todos do grupo. Pelo fato do processo unificado ser baseado em UML, utilizamos para padronizar nossos documentos e entregas, e foi muito importante para nosso aprendizado na matéria de requisitos em geral. Sabendo disso, hoje temos uma melhor perspectiva sobre o trabalho, comparado com o início, e isso foi trazido também pelo fato de estar sendo vivenciada a metodologia do processo unificado. Diferentemente do ágil, o processo unificado nos trouxe um outro olhar na ação de levantamento de requisitos.
+</p>
 
 
 ## 11. Referências 
